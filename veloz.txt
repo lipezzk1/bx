@@ -1,0 +1,3169 @@
+#EXTM3U
+#EXTINF:-1,24H:Naruto Shippuden
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4895284
+#EXTINF:-1,24H:ONE PIECE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4895281
+#EXTINF:-1,GLOBO BAHIA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407990
+#EXTINF:-1,GLOBO BAHIA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356764
+#EXTINF:-1,GLOBO BAHIA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356671
+#EXTINF:-1,GLOBO BELO HORIZONTE MG FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407993
+#EXTINF:-1,GLOBO BELÉM HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356711
+#EXTINF:-1,GLOBO BOA VISTA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/866736
+#EXTINF:-1,GLOBO BRASILIA DF FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/279930
+#EXTINF:-1,GLOBO BRASILIA DF SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407907
+#EXTINF:-1,GLOBO BRASILIA FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/279889
+#EXTINF:-1,GLOBO BRASILIA SD²
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141323
+#EXTINF:-1,GLOBO BRASILIA SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/279922
+#EXTINF:-1,GLOBO BRASILIA • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564392
+#EXTINF:-1,GLOBO CABUGI RN FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841746
+#EXTINF:-1,GLOBO CAMPINAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408221
+#EXTINF:-1,GLOBO CAMPINAS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408222
+#EXTINF:-1,GLOBO CENTRO AMERICA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069317
+#EXTINF:-1,GLOBO CENTRO AMERICA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/866737
+#EXTINF:-1,GLOBO CENTRO AMERICA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/847966
+#EXTINF:-1,GLOBO CENTRO OESTE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4662204
+#EXTINF:-1,GLOBO EPTV CAMPINAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356715
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356675
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141326
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356836
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO FHD H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/882657
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/882658
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356717
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD³
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841749
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356718
+#EXTINF:-1,GLOBO ESPIRITO SANTO FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407911
+#EXTINF:-1,GLOBO ESPIRITO SANTO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407912
+#EXTINF:-1,GLOBO SP UHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/279938
+#EXTINF:-1,GLOBO FLORIANOPOLIS SC
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407920
+#EXTINF:-1,GLOBO FORTALEZA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/336857
+#EXTINF:-1,GLOBO FORTALEZA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356877
+#EXTINF:-1,GLOBO FORTALEZA HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356705
+#EXTINF:-1,GLOBO FORTALEZA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/336855
+#EXTINF:-1,GLOBO GAZETA ALAGOAS FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1334416
+#EXTINF:-1,GLOBO GAZETA ALAGOAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356678
+#EXTINF:-1,GLOBO GAZETA ALAGOAS HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1334417
+#EXTINF:-1,GLOBO GAZETA ALAGOAS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1334418
+#EXTINF:-1,GLOBO GOIAS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407908
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356793
+#EXTINF:-1,GLOBO INTEGRAÇÃO MG HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356720
+#EXTINF:-1,GLOBO INTER CABUGI RN HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841747
+#EXTINF:-1,GLOBO INTER TV ALTO LITORAL
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141352
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/822796
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/822797
+#EXTINF:-1,GLOBO INTER TV GRANDE MINAS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/822798
+#EXTINF:-1,GLOBO IPATINGA MG
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407981
+#EXTINF:-1,GLOBO JOINVILE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408233
+#EXTINF:-1,GLOBO LIBERAL BELEM HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407915
+#EXTINF:-1,GLOBO LIBERAL BELEM SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356710
+#EXTINF:-1,GLOBO LITORAL BAURU SP
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407988
+#EXTINF:-1,GLOBO LITORAL SANTOS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407987
+#EXTINF:-1,GLOBO MACEIO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407992
+#EXTINF:-1,GLOBO MANAUS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356729
+#EXTINF:-1,GLOBO MINAS GERAIS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407914
+#EXTINF:-1,GLOBO MINAS GERAIS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407913
+#EXTINF:-1,GLOBO MINAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141328
+#EXTINF:-1,GLOBO MINAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356802
+#EXTINF:-1,GLOBO MINAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356716
+#EXTINF:-1,GLOBO MINAS SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356840
+#EXTINF:-1,GLOBO MINAS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564393
+#EXTINF:-1,GLOBO MIRANTE FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407921
+#EXTINF:-1,GLOBO MIRANTE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408006
+#EXTINF:-1,GLOBO MONTES CLAROS MG FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356800
+#EXTINF:-1,GLOBO MT
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407923
+#EXTINF:-1,GLOBO MT HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407909
+#EXTINF:-1,GLOBO NATAL RN FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407996
+#EXTINF:-1,GLOBO NATAL RN HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/831932
+#EXTINF:-1,GLOBO NE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408000
+#EXTINF:-1,GLOBO NEWS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564743
+#EXTINF:-1,GLOBO NEWS • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564731
+#EXTINF:-1,GLOBO NEWS • HD²
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564732
+#EXTINF:-1,GLOBO NEWS • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564733
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407995
+#EXTINF:-1,GLOBO NORDESTE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408225
+#EXTINF:-1,GLOBO NORDESTE • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564395
+#EXTINF:-1,GLOBO NSC CRICIUMA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069428
+#EXTINF:-1,GLOBO NSC JA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408227
+#EXTINF:-1,GLOBO NSC JA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408226
+#EXTINF:-1,GLOBO NSC SC FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356737
+#EXTINF:-1,GLOBO NSC SC HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356845
+#EXTINF:-1,GLOBO NSC SC SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407922
+#EXTINF:-1,GLOBO PARA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/831933
+#EXTINF:-1,GLOBO PARAIBA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407983
+#EXTINF:-1,GLOBO PARAIBA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407984
+#EXTINF:-1,GLOBO PERNAMBUCO  SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407997
+#EXTINF:-1,GLOBO PERNAMBUCO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/549762
+#EXTINF:-1,GLOBO RBS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407919
+#EXTINF:-1,GLOBO RBS CAXIAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356742
+#EXTINF:-1,GLOBO RBS CAXIAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356743
+#EXTINF:-1,GLOBO RBS CHAPECÓ HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841752
+#EXTINF:-1,GLOBO RBS CRICIÚMA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841753
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407925
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356847
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356687
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564396
+#EXTINF:-1,GLOBO RECIFE PERNAMBUCO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407924
+#EXTINF:-1,GLOBO RIO BRANCO FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/549761
+#EXTINF:-1,GLOBO RIO BRANCO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/549760
+#EXTINF:-1,GLOBO RIO GRANDE DO SUL
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/549763
+#EXTINF:-1,GLOBO RJ FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/251551
+#EXTINF:-1,GLOBO RJ FULL HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/549768
+#EXTINF:-1,GLOBO RJ HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/336850
+#EXTINF:-1,GLOBO RJ HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141334
+#EXTINF:-1,GLOBO RJ SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/251553
+#EXTINF:-1,GLOBO RJ SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356851
+#EXTINF:-1,GLOBO RJ • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564397
+#EXTINF:-1,GLOBO RORAIMA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407998
+#EXTINF:-1,GLOBO RPC CURITIBA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407916
+#EXTINF:-1,GLOBO RPC CURITIBA FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356852
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841751
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407918
+#EXTINF:-1,GLOBO RPC H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407917
+#EXTINF:-1,GLOBO RPC LONDRINA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841750
+#EXTINF:-1,GLOBO RPC LONDRINA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1237882
+#EXTINF:-1,GLOBO RPC LONDRINA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1237883
+#EXTINF:-1,GLOBO RPC TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141336
+#EXTINF:-1,GLOBO RS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407986
+#EXTINF:-1,GLOBO RS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408230
+#EXTINF:-1,GLOBO RS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408229
+#EXTINF:-1,Globo RS RBS TV Passo Fundo HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/3446996
+#EXTINF:-1,GLOBO RS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408228
+#EXTINF:-1,GLOBO SANTA CATARINA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407994
+#EXTINF:-1,GLOBO SANTA CRUZ DA BAHIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356765
+#EXTINF:-1,GLOBO SAO CARLOS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407999
+#EXTINF:-1,GLOBO SERGIPE FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408231
+#EXTINF:-1,GLOBO SERGIPE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408232
+#EXTINF:-1,GLOBO SP FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407910
+#EXTINF:-1,GLOBO SP FHD H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356813
+#EXTINF:-1,GLOBO SP FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356694
+#EXTINF:-1,GLOBO SP H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407991
+#EXTINF:-1,GLOBO SP HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356814
+#EXTINF:-1,GLOBO SP HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141338
+#EXTINF:-1,GLOBO SP INTERIOR SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408223
+#EXTINF:-1,GLOBO SP SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141339
+#EXTINF:-1,GLOBO SP SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356693
+#EXTINF:-1,GLOBO SP • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564398
+#EXTINF:-1,GLOBO SÃO CARLOS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408224
+#EXTINF:-1,GLOBO SÃO JOSE DO RIO PRETO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/840137
+#EXTINF:-1,GLOBO SÃO JOSE DO RIO PRETO HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/840138
+#EXTINF:-1,GLOBO TAPAJOS  HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/2914258
+#EXTINF:-1,Globo TO TV Anhanguera Gurupi HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4865190
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069306
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIANIA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069307
+#EXTINF:-1,GLOBO TV ANHANGUERA PALMAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069308
+#EXTINF:-1,GLOBO TV ANHANGUERA PALMAS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069309
+#EXTINF:-1,GLOBO TV ANHANGUERA PALMAS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069310
+#EXTINF:-1,GLOBO TV BAHIA SANTA CRUZ FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356861
+#EXTINF:-1,GLOBO TV BAHIA SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141340
+#EXTINF:-1,GLOBO TV BELEM FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356774
+#EXTINF:-1,GLOBO TV CABO BRANCO FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408004
+#EXTINF:-1,GLOBO TV CABO BRANCO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841757
+#EXTINF:-1,GLOBO TV CABO BRANCO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408005
+#EXTINF:-1,GLOBO TV CLUBE PIAUI FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/838693
+#EXTINF:-1,GLOBO TV CLUBE PIAUI HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069320
+#EXTINF:-1,GLOBO TV FRONTEIRA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/856184
+#EXTINF:-1,GLOBO TV FRONTEIRA PAULISTA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/854875
+#EXTINF:-1,GLOBO TV GAZETA ALAGOAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356824
+#EXTINF:-1,GLOBO TV Gazeta Sul ES HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/842184
+#EXTINF:-1,GLOBO TV Integração Uberlândia FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1338635
+#EXTINF:-1,GLOBO TV Integração Uberlândia HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1338636
+#EXTINF:-1,GLOBO TV Integração Uberlândia SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1338637
+#EXTINF:-1,GLOBO TV LIBERAL BELEM FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356869
+#EXTINF:-1,GLOBO TV MIRANTE  FHD³
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841756
+#EXTINF:-1,GLOBO TV MORENA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408007
+#EXTINF:-1,GLOBO TV MORENA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408008
+#EXTINF:-1,GLOBO TV MORENA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841754
+#EXTINF:-1,GLOBO TV RIO SUL FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1326297
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1326296
+#EXTINF:-1,GLOBO TV SUDOESTE VITÓRIA DA CONQUISTA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069486
+#EXTINF:-1,GLOBO TV TEM BAURU HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841748
+#EXTINF:-1,GLOBO TV TEM SOROCABA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356832
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356833
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356834
+#EXTINF:-1,GLOBO TV VANGUARDA S. J. DOS CAMPOS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/686604
+#EXTINF:-1,GLOBO TV VERDES MARES 4K
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/549721
+#EXTINF:-1,Globo TV Verdes Mares FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069343
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069344
+#EXTINF:-1,Globo TV Verdes Mares SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069345
+#EXTINF:-1,GLOBO UBERABA MG HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356796
+#EXTINF:-1,GLOBO VANGUARDA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/356781
+#EXTINF:-1,GLOBO VANGUARDA HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/408002
+#EXTINF:-1,GLOBO VANGUARDA SJ
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407989
+#EXTINF:-1,GLOBO VERDES MARES CARIRI HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1069346
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407985
+#EXTINF:-1,Guia de Canais
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141909
+#EXTINF:-1,HALLO ANIMES 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4865075
+#EXTINF:-1,INDICAÇÃO DA SEMANA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5325527
+#EXTINF:-1,Jeannie um Gio
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141910
+#EXTINF:-1,JOGOS DE HOJE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4941007
+#EXTINF:-1,JOVEM PAN FM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339242
+#EXTINF:-1,JOVEM PAN NEWS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564744
+#EXTINF:-1,JOVEM PAN NEWS • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564734
+#EXTINF:-1,JOVEM PAN NEWS • HD²
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564735
+#EXTINF:-1,JOVEM PAN NEWS • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564736
+#EXTINF:-1,Jovem Pan Pluto TV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141911
+#EXTINF:-1,Jovem Pan Seridó
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339274
+#EXTINF:-1,LOADING ANIMES
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4865079
+#EXTINF:-1,MasterChef
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141913
+#EXTINF:-1,MTV Are you the One?
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141914
+#EXTINF:-1,MTV Pluto TV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141916
+#EXTINF:-1,MTV Spankin' New
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141917
+#EXTINF:-1,MUNDIAL PODER DEUS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564417
+#EXTINF:-1,MyCamTV Anal (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078117
+#EXTINF:-1,MyCamTV Arab (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078118
+#EXTINF:-1,MyCamTV Asian (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078119
+#EXTINF:-1,MyCamTV Big Ass (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078120
+#EXTINF:-1,MyCamTV Big Tits (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078121
+#EXTINF:-1,MyCamTV Blonde (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078122
+#EXTINF:-1,MyCamTV Blowjob (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078123
+#EXTINF:-1,MyCamTV Brunette (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078124
+#EXTINF:-1,MyCamTV Latina (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078125
+#EXTINF:-1,MyCamTV Medium (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078126
+#EXTINF:-1,MyCamTV MILF (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078127
+#EXTINF:-1,MyCamTV Skinny (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078128
+#EXTINF:-1,MyCamTV Squirt (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078129
+#EXTINF:-1,MyCamTV Teen (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078130
+#EXTINF:-1,MyCamTV White (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078131
+#EXTINF:-1,MyCamTV Young (720p)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1078132
+#EXTINF:-1,Naruto
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141918
+#EXTINF:-1,NARUTO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4865084
+#EXTINF:-1,Nick Clsico
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141919
+#EXTINF:-1,Nick Jr. Club
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141920
+#EXTINF:-1,Nick Teen
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141921
+#EXTINF:-1,O Reino Infantil
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141924
+#EXTINF:-1,ON FM TV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/289022
+#EXTINF:-1,PLUTO TV - JEANNIE E UM GENIO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148284
+#EXTINF:-1,Pluto TV Anime
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141927
+#EXTINF:-1,PLUTO TV CINE CLASSICOS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148286
+#EXTINF:-1,Pluto TV Cine Clsicos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141928
+#EXTINF:-1,PLUTO TV CINE COMEDIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148291
+#EXTINF:-1,Pluto TV Cine Comia
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141929
+#EXTINF:-1,Pluto TV Cine Drama
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141930
+#EXTINF:-1,Pluto TV Cine Famia
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141931
+#EXTINF:-1,PLUTO TV CINE FAMILIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148285
+#EXTINF:-1,Pluto TV Cine Romance
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141932
+#EXTINF:-1,PLUTO TV CINE ROMANCE¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148290
+#EXTINF:-1,Pluto TV Cine Sucessos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141933
+#EXTINF:-1,PLUTO TV CINE SUCESSOS¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148293
+#EXTINF:-1,PLUTO TV CINE SUSPENSE¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148289
+#EXTINF:-1,Pluto TV Cine Terror
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141934
+#EXTINF:-1,PLUTO TV CINE TERROR¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148288
+#EXTINF:-1,PLUTO TV COMEDIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148180
+#EXTINF:-1,PLUTO TV FILMES AÇÃO¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148292
+#EXTINF:-1,PLUTO TV FILMES NACIONAIS¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148287
+#EXTINF:-1,PLUTO TV INVESTIGACAO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/148182
+#EXTINF:-1,Pluto TV Junior
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141941
+#EXTINF:-1,Pluto TV Karaokpor Stingray
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141942
+#EXTINF:-1,Pluto TV Kids
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141943
+#EXTINF:-1,PREMIERE 2 FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338394
+#EXTINF:-1,PREMIERE 2 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/386181
+#EXTINF:-1,PREMIERE 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141504
+#EXTINF:-1,PREMIERE 2 HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338392
+#EXTINF:-1,PREMIERE 2 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141505
+#EXTINF:-1,PREMIERE 2 SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338393
+#EXTINF:-1,PREMIERE 3 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141517
+#EXTINF:-1,PREMIERE 3 FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338397
+#EXTINF:-1,PREMIERE 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141506
+#EXTINF:-1,PREMIERE 3 HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338396
+#EXTINF:-1,PREMIERE 3 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141507
+#EXTINF:-1,PREMIERE 3 SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338395
+#EXTINF:-1,PREMIERE 4 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141518
+#EXTINF:-1,PREMIERE 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141508
+#EXTINF:-1,PREMIERE 4 HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338398
+#EXTINF:-1,PREMIERE 4 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141509
+#EXTINF:-1,PREMIERE 4 SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/181954
+#EXTINF:-1,PREMIERE 5 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338403
+#EXTINF:-1,PREMIERE 5 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141510
+#EXTINF:-1,PREMIERE 5 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141511
+#EXTINF:-1,PREMIERE 6 HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338405
+#EXTINF:-1,PREMIERE 6 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141512
+#EXTINF:-1,PREMIERE 6 SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338404
+#EXTINF:-1,PREMIERE 7 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338409
+#EXTINF:-1,PREMIERE 7 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338408
+#EXTINF:-1,PREMIERE 7 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141513
+#EXTINF:-1,PREMIERE 7 HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338407
+#EXTINF:-1,PREMIERE CLUBE HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/263476
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/251474
+#EXTINF:-1,PREMIERE CLUBES FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338391
+#EXTINF:-1,PREMIERE CLUBES HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141514
+#EXTINF:-1,PREMIERE CLUBES HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380713
+#EXTINF:-1,PREMIERE CLUBES SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141515
+#EXTINF:-1,PREMIERE CLUBES SD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/338390
+#EXTINF:-1,RADIO CAMPO MAIOR AM 840 QUIXERAMOBIM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1281723
+#EXTINF:-1,RADIO ITATIAIA FM 95,7
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380134
+#EXTINF:-1,RADIO JOVEM PAN 101,7
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380130
+#EXTINF:-1,RADIO SEMEANDO O AMOR DE DEUS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380129
+#EXTINF:-1,RECORD BA • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564888
+#EXTINF:-1,RECORD BA • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564859
+#EXTINF:-1,RECORD BA • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564860
+#EXTINF:-1,RECORD BRASILIA • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564887
+#EXTINF:-1,RECORD BRASILIA • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564861
+#EXTINF:-1,RECORD BRASILIA • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564862
+#EXTINF:-1,RECORD GO • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564429
+#EXTINF:-1,RECORD GO • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564886
+#EXTINF:-1,RECORD GO • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564863
+#EXTINF:-1,RECORD GO • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564864
+#EXTINF:-1,RECORD LITORAL E VALES • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564885
+#EXTINF:-1,RECORD LITORAL E VALES • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564865
+#EXTINF:-1,RECORD LITORAL E VALES • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564866
+#EXTINF:-1,RECORD MANAUS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564884
+#EXTINF:-1,RECORD MANAUS • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564867
+#EXTINF:-1,RECORD MANAUS • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564868
+#EXTINF:-1,RECORD MINAS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564883
+#EXTINF:-1,RECORD MINAS • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564869
+#EXTINF:-1,RECORD MINAS • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564870
+#EXTINF:-1,RECORD NEWS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564745
+#EXTINF:-1,RECORD NEWS • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564737
+#EXTINF:-1,RECORD NEWS • HD²
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564738
+#EXTINF:-1,RECORD NEWS • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564739
+#EXTINF:-1,RECORD PA • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564882
+#EXTINF:-1,RECORD PA • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564871
+#EXTINF:-1,RECORD PA • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564872
+#EXTINF:-1,RECORD RJ • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564881
+#EXTINF:-1,RECORD RJ • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564873
+#EXTINF:-1,RECORD RJ • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564874
+#EXTINF:-1,RECORD RS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564436
+#EXTINF:-1,RECORD RS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564880
+#EXTINF:-1,RECORD RS • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564875
+#EXTINF:-1,RECORD RS • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564876
+#EXTINF:-1,RECORD SP • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564877
+#EXTINF:-1,RECORD SP • HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564878
+#EXTINF:-1,RECORD SP • SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564879
+#EXTINF:-1,RUNTIME • AÇÃO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333671
+#EXTINF:-1,RUNTIME • CINE ESPANTO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333672
+#EXTINF:-1,RUNTIME • COMEDIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333673
+#EXTINF:-1,RUNTIME • CRIME
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333674
+#EXTINF:-1,RUNTIME • FAMILIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333675
+#EXTINF:-1,RUNTIME • MASTER CHEF
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333676
+#EXTINF:-1,RUNTIME • MOTOR VISION TV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333677
+#EXTINF:-1,RUNTIME • RECORD NEWS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333678
+#EXTINF:-1,RUNTIME • ROMANCE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333679
+#EXTINF:-1,RUNTIME • SPHERE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333680
+#EXTINF:-1,RUNTIME • TG BRASIL
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333681
+#EXTINF:-1,RUNTIME • TV E FILMES
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333682
+#EXTINF:-1,RUNTIME • TV ZYN
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5333683
+#EXTINF:-1,RÁDIO AMÁLIA-FM PORTUGAL
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841343
+#EXTINF:-1,Rádio Anos 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339266
+#EXTINF:-1,Rádio Anos 80
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339264
+#EXTINF:-1,Rádio Anos 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339265
+#EXTINF:-1,RÁDIO ANTENA 1-FM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841341
+#EXTINF:-1,RÁDIO CAMPEIRA FM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841759
+#EXTINF:-1,RÁDIO CLUBE FM 99,1 RECIFE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841344
+#EXTINF:-1,Rádio Eletrônica
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339255
+#EXTINF:-1,RÁDIO FM CANÃA FORTALEZA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380147
+#EXTINF:-1,RÁDIO FM METROPOLITANA - 94.3 FM ( Belém )
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841347
+#EXTINF:-1,Rádio Folk
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339247
+#EXTINF:-1,Rádio Forró
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339252
+#EXTINF:-1,Rádio Funk
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339258
+#EXTINF:-1,RÁDIO GAZETA FM 93,3 ACRE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841345
+#EXTINF:-1,Rádio Gospel
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339249
+#EXTINF:-1,Rádio Gospel Internacional
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339248
+#EXTINF:-1,RÁDIO GRANDE RIO AM 680
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339241
+#EXTINF:-1,RÁDIO GRANDE RIO FM 100.7
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339239
+#EXTINF:-1,Rádio Hip-Hop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339256
+#EXTINF:-1,Rádio J-Pop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339269
+#EXTINF:-1,Rádio K-Pop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339246
+#EXTINF:-1,Rádio Latina
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339254
+#EXTINF:-1,RÁDIO LIDERANÇA FM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380150
+#EXTINF:-1,RÁDIO MASSA FM CHAPECÓ
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380154
+#EXTINF:-1,RÁDIO MODÃO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380155
+#EXTINF:-1,Rádio Pagode
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339259
+#EXTINF:-1,RÁDIO PETROLINA FM 98.3
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339240
+#EXTINF:-1,RÁDIO PLAY FM-MG
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841346
+#EXTINF:-1,Rádio Pop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339253
+#EXTINF:-1,Rádio Pop Nacional
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339267
+#EXTINF:-1,Rádio Pop Rock
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339257
+#EXTINF:-1,Rádio Pop Rock Nacional
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339268
+#EXTINF:-1,Rádio R&B
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339245
+#EXTINF:-1,Rádio Reggae
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339250
+#EXTINF:-1,Rádio Rock
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339251
+#EXTINF:-1,Rádio Rock
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339260
+#EXTINF:-1,Rádio Românticas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339270
+#EXTINF:-1,Rádio Rural 830 AM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339272
+#EXTINF:-1,Rádio Sertanejo
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339262
+#EXTINF:-1,Rádio Sertanejo Romântico
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339263
+#EXTINF:-1,RÁDIO SKOL SERTANEJA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/841760
+#EXTINF:-1,RÁDIO SOMZOOM SAT
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380146
+#EXTINF:-1,RÁDIO SÓ BREGA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380153
+#EXTINF:-1,RÁDIO TRILHAS DE SUCESSO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/380152
+#EXTINF:-1,RÁDIO VOZ MISSIONÁRIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/2914480
+#EXTINF:-1,RÁDIO WEB JUAZEIRO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339236
+#EXTINF:-1,RÁDIO WEB ÁGUA VIVA DE JUAZEIRO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1339237
+#EXTINF:-1,SBT  HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/205714
+#EXTINF:-1,SBT ALTEROSA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/686623
+#EXTINF:-1,SBT ARATU BAHIA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1223741
+#EXTINF:-1,SBT BRASILIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/205716
+#EXTINF:-1,SBT FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/268135
+#EXTINF:-1,SBT FHD²
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/876463
+#EXTINF:-1,SBT FHD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/385324
+#EXTINF:-1,SBT H264
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/205717
+#EXTINF:-1,SBT H264
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/875851
+#EXTINF:-1,SBT HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/385323
+#EXTINF:-1,SBT JANGADEIRO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/274834
+#EXTINF:-1,SBT MARANHAO FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/3059495
+#EXTINF:-1,SBT PARANA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/840103
+#EXTINF:-1,SBT RECIFE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4898461
+#EXTINF:-1,SBT RJ FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/348267
+#EXTINF:-1,SBT RJ HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/348268
+#EXTINF:-1,SBT RS H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/336848
+#EXTINF:-1,SBT SERRA DOURADA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/3059496
+#EXTINF:-1,SBT SP FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141366
+#EXTINF:-1,SBT SP H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/385328
+#EXTINF:-1,SBT SP HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/317804
+#EXTINF:-1,SBT SP HD²
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/385326
+#EXTINF:-1,SBT SP HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/265964
+#EXTINF:-1,SBT SP HD¹
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/407545
+#EXTINF:-1,SBT SP INTERIOR
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/1073047
+#EXTINF:-1,SBT TAMBAU
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/205720
+#EXTINF:-1,SBT TV Guajará (PA)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/856163
+#EXTINF:-1,SBT TV JORNAL FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/2914499
+#EXTINF:-1,SBT TV Thathi (SP)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/3065026
+#EXTINF:-1,SBT VTV CAMPINAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/385321
+#EXTINF:-1,TELECINE ACTION FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141479
+#EXTINF:-1,TELECINE ACTION HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141467
+#EXTINF:-1,TELECINE ACTION SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141468
+#EXTINF:-1,TELECINE CULT FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/685179
+#EXTINF:-1,TELECINE CULT H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/390782
+#EXTINF:-1,TELECINE CULT HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141469
+#EXTINF:-1,TELECINE CULT SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141470
+#EXTINF:-1,TELECINE FUN FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141480
+#EXTINF:-1,TELECINE FUN HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/232601
+#EXTINF:-1,TELECINE FUN SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141472
+#EXTINF:-1,TELECINE PIPOCA  H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141481
+#EXTINF:-1,TELECINE PIPOCA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/337717
+#EXTINF:-1,TELECINE PIPOCA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/337716
+#EXTINF:-1,TELECINE PIPOCA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141474
+#EXTINF:-1,TELECINE PREMIUM FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/337714
+#EXTINF:-1,TELECINE PREMIUM H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/390787
+#EXTINF:-1,TELECINE PREMIUM HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/337713
+#EXTINF:-1,TELECINE PREMIUM SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/337712
+#EXTINF:-1,TELECINE PREMIUM • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564461
+#EXTINF:-1,TELECINE TOUCH FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141483
+#EXTINF:-1,TELECINE TOUCH HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141477
+#EXTINF:-1,TELECINE TOUCH SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141478
+#EXTINF:-1,TELECINE TOUCH • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564462
+#EXTINF:-1,TOKUSATO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/4865083
+#EXTINF:-1,Turma da Mica
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/141957
+#EXTINF:-1,TV APARECIDA • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564468
+#EXTINF:-1,TV EVANGELIZAR • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564472
+#EXTINF:-1,TV GIDEOS • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564473
+#EXTINF:-1,TV NOVO TEMPO • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564475
+#EXTINF:-1,VIVA • FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5564478
+#EXTINF:-1,RECORD TV CIDADE FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5673040
+#EXTINF:-1,RECORD CURITIBA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5678301
+#EXTINF:-1,RECORD CAMPO DO GOYATAZES HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/5678302
+#EXTINF:-1,CNBC HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/6036005
+#EXTINF:-1,GLOBO RPC GUARAPUAVA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/6264053
+#EXTINF:-1,GLOBO NSC BLUMENAU HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/6264054
+#EXTINF:-1,RECORD CURITIBA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/7384879
+#EXTINF:-1,RECORD TV CIDADE FORTALEZA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/7614365
+#EXTINF:-1,GLOBO MINAS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8083309
+#EXTINF:-1,GLOBO MIRANTE SAO LUIZ HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8083310
+#EXTINF:-1,SBT JANGADEIRO FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8083311
+#EXTINF:-1,24H • 18 Outra Vez
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084316
+#EXTINF:-1,24H • Adamas o Diamante Assassino
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084317
+#EXTINF:-1,24H • Agency
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084318
+#EXTINF:-1,24H • Agência de Celebridades
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084319
+#EXTINF:-1,24H • Alquimia das Almas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084320
+#EXTINF:-1,24H • As Três Irmãs
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084321
+#EXTINF:-1,Casamento e Divórcio
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084322
+#EXTINF:-1,24H • Descendentes do Sol
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084323
+#EXTINF:-1,24H • Diva á Deriva
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084324
+#EXTINF:-1,24H • Divorciados
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084325
+#EXTINF:-1,24H • Dra Cha
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084326
+#EXTINF:-1,24H • Dragões de Wonderhatch
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084327
+#EXTINF:-1,24H • Finalmente Adultos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084328
+#EXTINF:-1,24H • Jardim de Meteoros
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084329
+#EXTINF:-1,24H • Meu Amor das Estrelas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084330
+#EXTINF:-1,24H • Military Prosecutor Doberman
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084331
+#EXTINF:-1,24H • Na Direção do Amor
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084332
+#EXTINF:-1,24H • Noiva Por Vingança
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084333
+#EXTINF:-1,24H • Nosso Eterno Verão
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084334
+#EXTINF:-1,24H • O Advogado De Divórcio
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084335
+#EXTINF:-1,24H • Pachinko
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084336
+#EXTINF:-1,24H • Passarela de Sonhos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084337
+#EXTINF:-1,24H • Pousando No Amor
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084338
+#EXTINF:-1,24H • Pretendente Surpresa
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084339
+#EXTINF:-1,24H • Queremos o Divórcio
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084340
+#EXTINF:-1,24H • Rainha das Lágrimas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084341
+#EXTINF:-1,24H • Sorriso Real
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084342
+#EXTINF:-1,24H • Uma Advogada Extraordinária
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084343
+#EXTINF:-1,24H • Uma Odisséia Coreana
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084344
+#EXTINF:-1,24H • Uma Segunda Chance
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084345
+#EXTINF:-1,24H • Vejo Você Na Próxima Vida
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084346
+#EXTINF:-1,24H • Vincenzo
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084347
+#EXTINF:-1,24H • Coletânea - 007
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084348
+#EXTINF:-1,24H • Coletânea - Adam Sandler
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084349
+#EXTINF:-1,24H • Coletânea - Bruce Lee
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084350
+#EXTINF:-1,24H • Coletânea - Denzel Washington
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084351
+#EXTINF:-1,24H • Coletânea - Especial de Natal
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084352
+#EXTINF:-1,24H • Coletânea - Esqueceram de Mim
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084353
+#EXTINF:-1,24H • Coletânea - Freddy & Jason
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084354
+#EXTINF:-1,24H • Coletânea - Halloween
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084355
+#EXTINF:-1,24H • Coletânea - Hellraiser
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084356
+#EXTINF:-1,24H • Coletânea - Indiana Jones
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084357
+#EXTINF:-1,24H • Coletânea - Jackie Chan
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084358
+#EXTINF:-1,24H • Coletânea - Jet Li
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084359
+#EXTINF:-1,24H • Coletânea - Jurassic Park
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084360
+#EXTINF:-1,24H • Coletânea - Mazzaropi
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084361
+#EXTINF:-1,24H • Coletânea - Nicolas Cage
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084362
+#EXTINF:-1,24H • Coletânea - O Massacre da Serra Elétrica
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084363
+#EXTINF:-1,24H • Coletânea - Os Mercenários
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084364
+#EXTINF:-1,24H • Coletânea - Piratas do Caribe
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084365
+#EXTINF:-1,24H • Coletânea - Planeta dos Macacos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084366
+#EXTINF:-1,24H • Coletânea - Steven Seagal
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084367
+#EXTINF:-1,24H • Coletânea - Velozes e Furiosos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084368
+#EXTINF:-1,24H • Anime - 7Seeds
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084369
+#EXTINF:-1,24H • Anime - A Lenda de Vox Machina
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084370
+#EXTINF:-1,24H • Anime - Aria The Animation
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084371
+#EXTINF:-1,24H • Anime - Boku no Hero Academia
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084372
+#EXTINF:-1,24H • Anime - Digimon Adventure
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084373
+#EXTINF:-1,24H • Anime - Dragon Ball
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084374
+#EXTINF:-1,24H • Anime - Dragon Ball GT
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084375
+#EXTINF:-1,24H • Anime - Dragon Ball Super
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084376
+#EXTINF:-1,24H • Anime - Dragon Ball Z
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084377
+#EXTINF:-1,24H • Anime - Dungeon Meshi
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084378
+#EXTINF:-1,24H • Anime - Eyeshield 21
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084379
+#EXTINF:-1,24H • Anime - Hikari no Go
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084380
+#EXTINF:-1,24H • Anime - Mashle Magia e Músculos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084381
+#EXTINF:-1,24H • Anime - Muv Luv Alternative Total Eclipse
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084382
+#EXTINF:-1,24H • Anime - One Punch Man
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084383
+#EXTINF:-1,24H • Anime - Os Cavaleiros do Zodíaco Saint Seiya
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084384
+#EXTINF:-1,24H • Anime - Pokemon
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084385
+#EXTINF:-1,24H • Anime - Pokémon: Horizontes
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084386
+#EXTINF:-1,24H • Anime - Super Campeões
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084387
+#EXTINF:-1,24H • Anime - The Rising of the Shield Hero
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084388
+#EXTINF:-1,24H • Anime - Yu Gi Oh GX
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084389
+#EXTINF:-1,24H • Cine BOX - Animação
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084390
+#EXTINF:-1,24H • Cine BOX - Através da Minha Janela 3 (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084391
+#EXTINF:-1,24H • Cine BOX - Ação
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084392
+#EXTINF:-1,24H • Cine BOX - Beekeeper Rede de Vingança (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084393
+#EXTINF:-1,24H • Cine BOX - Code 8 Renegados Parte 2 (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084394
+#EXTINF:-1,24H • Cine BOX - Comédia
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084395
+#EXTINF:-1,24H • Cine BOX - Disney+ Homem Aranha
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084396
+#EXTINF:-1,24H • Cine BOX - Disney+ MCU
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084397
+#EXTINF:-1,24H • Cine BOX - Disney+ X-Men
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084398
+#EXTINF:-1,24H • Cine BOX - Donzela (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084399
+#EXTINF:-1,24H • Cine BOX - Drama
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084400
+#EXTINF:-1,24H • Cine BOX - Lançamentos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084401
+#EXTINF:-1,24H • Cine BOX - MAX 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084402
+#EXTINF:-1,24H • Cine BOX - MAX 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084403
+#EXTINF:-1,24H • Cine BOX - MAX 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084404
+#EXTINF:-1,24H • Cine BOX - MAX 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084405
+#EXTINF:-1,24H • Cine BOX - Mergulho Noturno (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084406
+#EXTINF:-1,24H • Cine BOX - Minha Irmã e Eu (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084407
+#EXTINF:-1,24H • Cine BOX - Netflix 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084408
+#EXTINF:-1,24H • Cine BOX - Netflix 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084409
+#EXTINF:-1,24H • Cine BOX - Netflix 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084410
+#EXTINF:-1,24H • Cine BOX - O Pai
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084411
+#EXTINF:-1,24H • Cine BOX - Romance
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084412
+#EXTINF:-1,24H • Cine BOX - Suspense
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084413
+#EXTINF:-1,24H • Cine BOX - Turma da Mônica Jovem
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084414
+#EXTINF:-1,24H • Cine BOX - Xeque Mate (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084415
+#EXTINF:-1,24H • Cine BOX - Zona de Risco (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084416
+#EXTINF:-1,24H • Bucky
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084417
+#EXTINF:-1,24H • Cavaleiros do Zodiaco - Saga Hades
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084418
+#EXTINF:-1,24H • Desenhos Biblicos - Novo Testamento
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084419
+#EXTINF:-1,24H • Luluzinha em Português
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084420
+#EXTINF:-1,24H • Mortal Kombat - Defensores da Terra
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084421
+#EXTINF:-1,24H • Mongo e Drongo (2004)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084422
+#EXTINF:-1,24H • Pica Pau Clássico
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084423
+#EXTINF:-1,24H • Pernalonga e Patolino
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084424
+#EXTINF:-1,24H • Cavaleiros do Zodiaco - A Saga de Ascard
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084425
+#EXTINF:-1,24H • Rambo Desenho Animado
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084426
+#EXTINF:-1,24H • Cavaleiros do Zodiaco - Guerra Galáctica
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084427
+#EXTINF:-1,24H • Super Maratona Cine Gibi - Turma da Mônica
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084428
+#EXTINF:-1,24H • Yu Yu Hakusho (1992)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084429
+#EXTINF:-1,24H • Shurato (1989)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084430
+#EXTINF:-1,As Aventuras de Super Mario Bros 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084431
+#EXTINF:-1,TELETUBBIES 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084432
+#EXTINF:-1,TIMÃO & PUMBA 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084433
+#EXTINF:-1,THUNDERCATS 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084434
+#EXTINF:-1,TOM E JERRY 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084435
+#EXTINF:-1,A TURMA DA MONICA 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084436
+#EXTINF:-1,UrsinHos CarinHosos 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084437
+#EXTINF:-1,A Casa do Mickey Mouse 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084438
+#EXTINF:-1,Animaniacs 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084439
+#EXTINF:-1,As Meninas Superpoderosas 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084440
+#EXTINF:-1,Kipper 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084441
+#EXTINF:-1,Baby Looney Tunes 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084442
+#EXTINF:-1,Barney e Seus Amigos 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084443
+#EXTINF:-1,THe Puzzle Place 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084444
+#EXTINF:-1,Os Backyardigans 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084445
+#EXTINF:-1,BOB ESPONJA 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084446
+#EXTINF:-1,Doug 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084447
+#EXTINF:-1,Duck Dodgers
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084448
+#EXTINF:-1,DuckTales 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084449
+#EXTINF:-1,BABY DINOSSALRO 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084450
+#EXTINF:-1,THunderCats 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084451
+#EXTINF:-1,DORA AVENTUREIRA 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084452
+#EXTINF:-1,os Hamsters Hamtaro e Panda 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084453
+#EXTINF:-1,He-Man e os Mestres do Universo 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084454
+#EXTINF:-1,Hey Arnold! 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084455
+#EXTINF:-1,iCARLEY 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084456
+#EXTINF:-1,Ladybug 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084457
+#EXTINF:-1,OS FLINSTSON 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084458
+#EXTINF:-1,Transformers: More THan Meets tHe Eye 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084459
+#EXTINF:-1,24H • 220 Volts (2011)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084460
+#EXTINF:-1,24H • 4 Amigos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084461
+#EXTINF:-1,24H • 911 (2018)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084462
+#EXTINF:-1,24H • 911 Lone Star (2020)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084463
+#EXTINF:-1,24H • A Casa da Raven (2017)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084464
+#EXTINF:-1,24H • A Casa do Dragão (2022)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084465
+#EXTINF:-1,24H • A Feiticeira (1964)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084466
+#EXTINF:-1,24H • A Grande Família (2011)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084467
+#EXTINF:-1,24H • Anos Incríveis (1988)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084468
+#EXTINF:-1,24H • Arquivo Morto (2003)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084469
+#EXTINF:-1,24H • Batman e Robin (1966)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084470
+#EXTINF:-1,24H • Berlim La Casa de Papel (2023)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084471
+#EXTINF:-1,24H • Brasil Visto de Cima (2014)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084472
+#EXTINF:-1,24H • Breaking Bad A Quimica do Mal (2008)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084473
+#EXTINF:-1,24H • Brooklyn 99 Lei e Desordem (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084474
+#EXTINF:-1,24H • Buffy A Caça Vampiros (1997)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084475
+#EXTINF:-1,24H • CSI Investigação Criminal (2000)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084476
+#EXTINF:-1,24H • CSI Miami (2002)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084477
+#EXTINF:-1,24H • CSI Nova York (2004)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084478
+#EXTINF:-1,24H • Canal Boom
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084479
+#EXTINF:-1,24H • Carga Pesada (2003)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084480
+#EXTINF:-1,24H • Casos de Familia (2004)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084481
+#EXTINF:-1,24H • Casseta e Planeta Urgente (1992)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084482
+#EXTINF:-1,24H • Chapolin Colorado (1973)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084483
+#EXTINF:-1,24H • Chaves (1973)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084484
+#EXTINF:-1,24H • Chernobyl (2019)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084485
+#EXTINF:-1,24H • Chespirito (1973)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084486
+#EXTINF:-1,24H • Chicaco Fire Heróis Contra o Fogo (2012)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084487
+#EXTINF:-1,24H • Chicago Med Atendimento de Emergência (2015)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084488
+#EXTINF:-1,24H • Chicago PD Distrito 21 (2014)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084489
+#EXTINF:-1,24H • Como Eu Conheci Sua Mãe (2005)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084490
+#EXTINF:-1,24H • Câmeras Escondidas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084491
+#EXTINF:-1,24H • David Mafra
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084492
+#EXTINF:-1,24H • De Férias com o Ex Brasil (2016)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084493
+#EXTINF:-1,24H • Diários de Um Vampiro (2009)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084494
+#EXTINF:-1,24H • Doctor Who (2005)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084495
+#EXTINF:-1,24H • Dois Homens e Meio #1 (2003)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084496
+#EXTINF:-1,24H • Dr. House (2004)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084497
+#EXTINF:-1,24H • Einstein (2017)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084498
+#EXTINF:-1,24H • Elementaríssimo (2012)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084499
+#EXTINF:-1,24H • Escolinha do Professor Raimundo Nova Geração (2015)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084500
+#EXTINF:-1,A Patroa e as Crianças (2001)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084501
+#EXTINF:-1,24H • Fallout (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084502
+#EXTINF:-1,24H • Flash (2014)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084503
+#EXTINF:-1,24H • Friends (1994)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084504
+#EXTINF:-1,24H • Fórmula 1 (1984)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084505
+#EXTINF:-1,24H • Fórmula 1 (1985)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084506
+#EXTINF:-1,24H • Fórmula 1 (1986)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084507
+#EXTINF:-1,24H • Fórmula 1 (1987)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084508
+#EXTINF:-1,24H • Fórmula 1 (1988)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084509
+#EXTINF:-1,24H • Fórmula 1 (1989)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084510
+#EXTINF:-1,24H • Fórmula 1 (1990)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084511
+#EXTINF:-1,24H • Fórmula 1 (1991)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084512
+#EXTINF:-1,24H • Fórmula 1 (1992)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084513
+#EXTINF:-1,24H • Fórmula 1 (1993)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084514
+#EXTINF:-1,24H • Game of Thrones (2011)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084515
+#EXTINF:-1,24H • Grande Hotel (2011)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084516
+#EXTINF:-1,24H • Hannibal (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084517
+#EXTINF:-1,24H • Hospital New Amsterdam (2018)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084518
+#EXTINF:-1,24H • Jornada Nas Estrelas A Nova Geração (1987)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084519
+#EXTINF:-1,24H • Jornada Nas Estrelas A Nova Missão (1993)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084520
+#EXTINF:-1,24H • Jornada Nas Estrelas Voyager (1995)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084521
+#EXTINF:-1,24H • Jovem Sheldon (2017)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084522
+#EXTINF:-1,24H • Lendas do Amanhã (2016)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084523
+#EXTINF:-1,24H • Lista Negra (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084524
+#EXTINF:-1,24H • Mentes Criminosas (2005)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084525
+#EXTINF:-1,24H • Motel Bates (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084526
+#EXTINF:-1,24H • Mr Bean (1990)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084527
+#EXTINF:-1,24H • NCIS Los Angeles (2009)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084528
+#EXTINF:-1,24H • O Auto da Compadecida (1999)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084529
+#EXTINF:-1,24H • O Problema dos 3 Corpos (2024)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084530
+#EXTINF:-1,24H • Os Normais (2001)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084531
+#EXTINF:-1,24H • Os Originais (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084532
+#EXTINF:-1,24H • Os Simpsons (1989)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084533
+#EXTINF:-1,24H • Os Três Patetas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084534
+#EXTINF:-1,24H • Parafernalha
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084535
+#EXTINF:-1,24H • Polícia 24H (2010)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084536
+#EXTINF:-1,24H • Porta dos Fundos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084537
+#EXTINF:-1,24H • Punky A Levada da Breca (1984)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084538
+#EXTINF:-1,24H • Pé Na Cova (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084539
+#EXTINF:-1,24H • Reacher (2022)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084540
+#EXTINF:-1,24H • Revenge (2011)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084541
+#EXTINF:-1,24H • Sai de Baixo (1996)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084542
+#EXTINF:-1,24H • Smallville As Aventuras do Superboy (2001)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084543
+#EXTINF:-1,24H • Sob Pressão (2017)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084544
+#EXTINF:-1,24H • Sobrenatural (2005)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084545
+#EXTINF:-1,24H • South Park (1997)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084546
+#EXTINF:-1,24H • Stranger Things (2016)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084547
+#EXTINF:-1,24H • Supergirl (2015)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084548
+#EXTINF:-1,24H • Tapas e Beijos (2011)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084549
+#EXTINF:-1,24H • Teste de Fidelidade
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084550
+#EXTINF:-1,24H • The Boys (2019)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084551
+#EXTINF:-1,24H • The Good Doctor O Bom Doutor (2017)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084552
+#EXTINF:-1,24H • The Masked Singer Brasil (2021)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084553
+#EXTINF:-1,24H • The Voice Brasil (2012)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084554
+#EXTINF:-1,24H • The Voice Kids (2016)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084555
+#EXTINF:-1,24H • The Voice Plus (2012)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084556
+#EXTINF:-1,24H • The Walking Dead (2010)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084557
+#EXTINF:-1,24H • The Walking Dead (2015)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084558
+#EXTINF:-1,24H • Titans (2018)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084559
+#EXTINF:-1,24H • Todas as Flores (2022)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084560
+#EXTINF:-1,24H • Toma Lá Dá Cá (2007)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084561
+#EXTINF:-1,24H • Truques da Mente (2011)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084562
+#EXTINF:-1,24H • Tô de Graça (2017)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084563
+#EXTINF:-1,24H • Um Maluco no Pedaço (1990)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084564
+#EXTINF:-1,24H • Vai Que Cola (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084565
+#EXTINF:-1,24H • Vikings (2013)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084566
+#EXTINF:-1,24H • Zico 70 A História do Nosso Galinho (2023)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084567
+#EXTINF:-1,AS VISÕES DA RAVEN 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084568
+#EXTINF:-1,Sai de Baixo 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084569
+#EXTINF:-1,PORTA DOS FUNDO 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084570
+#EXTINF:-1,SITIO PAU AMARELO 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084571
+#EXTINF:-1,SMALLVILLE SEASON 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084572
+#EXTINF:-1,SOBRENATURAL 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084573
+#EXTINF:-1,OS 3 NORDESTINOS 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084574
+#EXTINF:-1,BIG BANG: A TEORIA 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084575
+#EXTINF:-1,TODO MUNDO ODEIRA O CRIS 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084576
+#EXTINF:-1,UM MALUCO NO PEDAÇO 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084577
+#EXTINF:-1,Bates Motel 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084578
+#EXTINF:-1,Breaking Bad 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084579
+#EXTINF:-1,EU A PATROA E AS CRIANÇAS 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084580
+#EXTINF:-1,Game of THrones 24H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084581
+#EXTINF:-1,24H • Alok Ao Vivo em Copacabana 2023
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084582
+#EXTINF:-1,24H • Canal VEVO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084583
+#EXTINF:-1,24H • Clipes Acústico MTV Brasil
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084584
+#EXTINF:-1,24H • Clipes Adolescência da Geração 90 e 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084585
+#EXTINF:-1,24H • Clipes Anos 70 80 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084586
+#EXTINF:-1,24H • Clipes Arrasta Pé
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084587
+#EXTINF:-1,24H • Clipes As Mais Tocadas 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084588
+#EXTINF:-1,24H • Clipes As Melhores dos Anos 70
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084589
+#EXTINF:-1,24H • Clipes Axé Music dos Anos 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084590
+#EXTINF:-1,24H • Clipes Axé das Antigas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084591
+#EXTINF:-1,24H • Clipes Black 2000 a 2009
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084592
+#EXTINF:-1,24H • Clipes Black Total
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084593
+#EXTINF:-1,24H • Clipes Black Total Hip Hop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084594
+#EXTINF:-1,24H • Clipes Brasil 90 e 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084595
+#EXTINF:-1,24H • Clipes Brasil Hits Anos 90 e 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084596
+#EXTINF:-1,24H • Clipes Dance Trance Techno
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084597
+#EXTINF:-1,24H • Clipes Eletrônica 90 a 2017
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084598
+#EXTINF:-1,24H • Clipes Eletrônica Hits
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084599
+#EXTINF:-1,24H • Clipes Eletrônicas 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084600
+#EXTINF:-1,24H • Clipes Flashback 80 90 e 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084601
+#EXTINF:-1,24H • Clipes Flashback 80 e 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084602
+#EXTINF:-1,24H • Clipes Funk Clássicos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084603
+#EXTINF:-1,24H • Clipes Funk Furacão 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084604
+#EXTINF:-1,24H • Clipes Funk Pega a Visão
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084605
+#EXTINF:-1,24H • Clipes Funk das Antigas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084606
+#EXTINF:-1,24H • Clipes Gospel Adventista
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084607
+#EXTINF:-1,24H • Clipes Gospel BarukTV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084608
+#EXTINF:-1,24H • Clipes Gospel Internacional
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084609
+#EXTINF:-1,24H • Clipes Gospel Musile
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084610
+#EXTINF:-1,24H • Clipes Hip Hop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084611
+#EXTINF:-1,24H • Clipes Internacional 90 e 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084612
+#EXTINF:-1,24H • Clipes MPB Alegria
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084613
+#EXTINF:-1,24H • Clipes MPB Antigas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084614
+#EXTINF:-1,24H • Clipes MPB Ao Vivo
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084615
+#EXTINF:-1,24H • Clipes MPB As Melhores
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084616
+#EXTINF:-1,24H • Clipes MPB Sangue Novo
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084617
+#EXTINF:-1,24H • Clipes Músicas dos Anos 80 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084618
+#EXTINF:-1,24H • Clipes Nacional 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084619
+#EXTINF:-1,24H • Clipes O Melhor do Rock Nacional Anos 80 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084620
+#EXTINF:-1,24H • Clipes Pagode 2021
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084621
+#EXTINF:-1,24H • Clipes Pagode 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084622
+#EXTINF:-1,24H • Clipes Pagode 90 Top 50
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084623
+#EXTINF:-1,24H • Clipes Pagode Churrasco Cerveja
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084624
+#EXTINF:-1,24H • Clipes Pagode Resenha
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084625
+#EXTINF:-1,24H • Clipes Pop Nacional Era de Ouro
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084626
+#EXTINF:-1,24H • Clipes Pop Nacional Hits
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084627
+#EXTINF:-1,24H • Clipes Pop Rock 80 90 Internacionais
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084628
+#EXTINF:-1,24H • Clipes Pop Rock Nacional 80 90 2000
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084629
+#EXTINF:-1,24H • Clipes Rap Espaço Rap
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084630
+#EXTINF:-1,24H • Clipes Rap Espaço Rap 01 a 11
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084631
+#EXTINF:-1,24H • Clipes Rap Nacional Clássicos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084632
+#EXTINF:-1,24H • Clipes Rap Nacional Feminino
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084633
+#EXTINF:-1,24H • Clipes Rap das Antigas Só As Melhores
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084634
+#EXTINF:-1,24H • Clipes Rock 80
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084635
+#EXTINF:-1,24H • Clipes Rock Brasil 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084636
+#EXTINF:-1,24H • Clipes Rock Brasil Greatest Hits
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084637
+#EXTINF:-1,24H • Clipes Rock Deu Praia Pro Nacional
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084638
+#EXTINF:-1,24H • Clipes Rock Nacional
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084639
+#EXTINF:-1,24H • Clipes Rock Para Ouvir No Trabalho
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084640
+#EXTINF:-1,24H • Clipes Samba Anos 70
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084641
+#EXTINF:-1,24H • Clipes Samba Imortais
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084642
+#EXTINF:-1,24H • Clipes Samba e Pagode Hits
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084643
+#EXTINF:-1,24H • Clipes Sertanejo
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084644
+#EXTINF:-1,24H • Clipes Sertanejo 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084645
+#EXTINF:-1,24H • Clipes Sertanejo Arrocha
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084646
+#EXTINF:-1,24H • Clipes Sertanejo Classicos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084647
+#EXTINF:-1,24H • Clipes Sertanejo Família
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084648
+#EXTINF:-1,24H • Clipes Sertanejo Festa
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084649
+#EXTINF:-1,24H • Clipes Sertanejo Hits
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084650
+#EXTINF:-1,24H • Clipes Sertanejo Mulheres
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084651
+#EXTINF:-1,24H • Clipes Sertanejo Sorriso
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084652
+#EXTINF:-1,24H • Clipes Sertanejo TOP
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084653
+#EXTINF:-1,24H • Clipes Sertanejo de Boa
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084654
+#EXTINF:-1,24H • Clipes Sertanejo de Todos os Tempos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084655
+#EXTINF:-1,24H • Clipes Shows K-Pop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084656
+#EXTINF:-1,24H • Clipes Top 100 dos Anos 2000 Nacional
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084657
+#EXTINF:-1,24H • Clipes Top MTV Brasil 00s
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084658
+#EXTINF:-1,24H • Clipes Top Musicas dos Anos 90
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084659
+#EXTINF:-1,24H • Clipes YouTube Mix
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084660
+#EXTINF:-1,24H • Clipes YouTube Mix 90 e 00s
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084661
+#EXTINF:-1,24H • Discografia Charlie Brown Jr
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084662
+#EXTINF:-1,24H • Discografia Exaltasamba
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084663
+#EXTINF:-1,24H • Discografia Jorge & Mateus
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084664
+#EXTINF:-1,24H • Discografia Linkin Park
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084665
+#EXTINF:-1,24H • Discografia Maiara e Maraisa
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084666
+#EXTINF:-1,24H • Discografia Marília Mendonça
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084667
+#EXTINF:-1,24H • Discografia Metallica
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084668
+#EXTINF:-1,24H • Discografia Michael Jackson
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084669
+#EXTINF:-1,24H • Discografia Nirvana
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084670
+#EXTINF:-1,24H • Discografia Roberto Carlos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084671
+#EXTINF:-1,24H • Discografia Zeca Pagodinho
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084672
+#EXTINF:-1,PPV • Baseball - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084673
+#EXTINF:-1,PPV • Baseball - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084674
+#EXTINF:-1,PPV • Baseball - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084675
+#EXTINF:-1,PPV • Baseball - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084676
+#EXTINF:-1,PPV • Basquete - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084677
+#EXTINF:-1,PPV • Basquete - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084678
+#EXTINF:-1,PPV • Basquete - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084679
+#EXTINF:-1,PPV • Basquete - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084680
+#EXTINF:-1,PPV • Basquete - Jogo 05
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084681
+#EXTINF:-1,PPV • Basquete - Jogo 06
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084682
+#EXTINF:-1,PPV • Basquete - Jogo 07
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084683
+#EXTINF:-1,PPV • Basquete - Jogo 08
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084684
+#EXTINF:-1,PPV • Basquete - Jogo 09
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084685
+#EXTINF:-1,PPV • Basquete - Jogo 10
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084686
+#EXTINF:-1,PPV • Boxe - Evento 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084687
+#EXTINF:-1,PPV • Boxe - Evento 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084688
+#EXTINF:-1,PPV • Boxe - Evento 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084689
+#EXTINF:-1,PPV • Boxe - Evento 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084690
+#EXTINF:-1,PPV • Futebol Americano - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084691
+#EXTINF:-1,PPV • Futebol Americano - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084692
+#EXTINF:-1,PPV • Futebol Americano - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084693
+#EXTINF:-1,PPV • Futebol Americano - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084694
+#EXTINF:-1,PPV • Golfe - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084695
+#EXTINF:-1,PPV • Golfe - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084696
+#EXTINF:-1,PPV • Golfe - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084697
+#EXTINF:-1,PPV • Golfe - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084698
+#EXTINF:-1,PPV • Hockey - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084699
+#EXTINF:-1,PPV • Hockey - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084700
+#EXTINF:-1,PPV • Hockey - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084701
+#EXTINF:-1,PPV • Hockey - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084702
+#EXTINF:-1,PPV • MLS - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084703
+#EXTINF:-1,PPV • MLS - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084704
+#EXTINF:-1,PPV • MLS - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084705
+#EXTINF:-1,PPV • MLS - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084706
+#EXTINF:-1,PPV • Rugby - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084707
+#EXTINF:-1,PPV • Rugby - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084708
+#EXTINF:-1,PPV • Rugby - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084709
+#EXTINF:-1,PPV • Rugby - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084710
+#EXTINF:-1,PPV • Tenis - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084711
+#EXTINF:-1,PPV • Tenis - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084712
+#EXTINF:-1,PPV • Tenis - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084713
+#EXTINF:-1,PPV • Tenis - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084714
+#EXTINF:-1,PPV • Volei - Jogo 01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084715
+#EXTINF:-1,PPV • Volei - Jogo 02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084716
+#EXTINF:-1,PPV • Volei - Jogo 03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084717
+#EXTINF:-1,PPV • Volei - Jogo 04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8084718
+#EXTINF:-1,SBT Novelas
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085618
+#EXTINF:-1,SBT Pop
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085620
+#EXTINF:-1,SBT Saudade
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085621
+#EXTINF:-1,SBT Saudade
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085622
+#EXTINF:-1,SBT Silvio Santos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085624
+#EXTINF:-1,SBT TV Zyn
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085626
+#EXTINF:-1,• Amazon Sat HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085627
+#EXTINF:-1,• Amazon Sat SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085628
+#EXTINF:-1,• Blits TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085629
+#EXTINF:-1,• Blits TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085630
+#EXTINF:-1,• CNT HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085631
+#EXTINF:-1,• CNT SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085632
+#EXTINF:-1,• Central TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085633
+#EXTINF:-1,• Central TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085634
+#EXTINF:-1,• NGT HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085635
+#EXTINF:-1,• NGT SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085636
+#EXTINF:-1,• Play TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085637
+#EXTINF:-1,• Play TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085638
+#EXTINF:-1,• RBI TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085639
+#EXTINF:-1,• RBI TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085640
+#EXTINF:-1,• RFTV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085641
+#EXTINF:-1,• RFTV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085642
+#EXTINF:-1,• Rede 21 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085643
+#EXTINF:-1,• Rede 21 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085644
+#EXTINF:-1,• Rede Mais Família HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085645
+#EXTINF:-1,• Rede Mais Família SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085646
+#EXTINF:-1,• Rede Minas HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085647
+#EXTINF:-1,• Rede Minas SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085648
+#EXTINF:-1,• Rede Super HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085649
+#EXTINF:-1,• Rede Super SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085650
+#EXTINF:-1,• RedeTV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085651
+#EXTINF:-1,• RedeTV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085652
+#EXTINF:-1,• RedeTV Mais HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085653
+#EXTINF:-1,• RedeTV Mais SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085654
+#EXTINF:-1,• RedeTV Paraná HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085655
+#EXTINF:-1,• RedeTV Paraná SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085656
+#EXTINF:-1,• RedeTV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085657
+#EXTINF:-1,• TV A7 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085658
+#EXTINF:-1,• TV A7 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085659
+#EXTINF:-1,• TV Brusque HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085660
+#EXTINF:-1,• TV Brusque SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085661
+#EXTINF:-1,• TV Diário HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085662
+#EXTINF:-1,• TV Diário SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085663
+#EXTINF:-1,• TV Gazeta HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085664
+#EXTINF:-1,• TV Gazeta SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085665
+#EXTINF:-1,• TV Mais Brasil HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085666
+#EXTINF:-1,• TV Mais Brasil SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085667
+#EXTINF:-1,• TV Meio Norte HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085670
+#EXTINF:-1,• TV Meio Norte SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085671
+#EXTINF:-1,• TV Pampa HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085672
+#EXTINF:-1,• TV Pampa SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085673
+#EXTINF:-1,• TV União HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085674
+#EXTINF:-1,• TV União SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085675
+#EXTINF:-1,• Top TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085676
+#EXTINF:-1,• Top TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085677
+#EXTINF:-1,• COM Brasil HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085678
+#EXTINF:-1,• COM Brasil SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085679
+#EXTINF:-1,• Canal GOV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085680
+#EXTINF:-1,• Canal GOV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085681
+#EXTINF:-1,• Rede Brasil TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085682
+#EXTINF:-1,• Rede Brasil TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085683
+#EXTINF:-1,• TV Brasil HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085684
+#EXTINF:-1,• TV Brasil SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085685
+#EXTINF:-1,• TV Câmara HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085686
+#EXTINF:-1,• TV Câmara SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085687
+#EXTINF:-1,• TV Justiça HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085688
+#EXTINF:-1,• TV Justiça SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085689
+#EXTINF:-1,• TV Senado HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085690
+#EXTINF:-1,• TV Senado SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085691
+#EXTINF:-1,• Agro Canal HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085692
+#EXTINF:-1,• Agro Canal SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085693
+#EXTINF:-1,• Agro Plus HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085694
+#EXTINF:-1,• Agro Plus SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085695
+#EXTINF:-1,• Canal Rural HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085696
+#EXTINF:-1,• Canal Rural SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085697
+#EXTINF:-1,• Canal do Boi HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085698
+#EXTINF:-1,• Canal do Boi SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085699
+#EXTINF:-1,• Canal do Criador HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085700
+#EXTINF:-1,• Canal do Criador SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085701
+#EXTINF:-1,• Folha do Campo HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085702
+#EXTINF:-1,• Folha do Campo SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085703
+#EXTINF:-1,• Terra Viva HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085704
+#EXTINF:-1,• Terra Viva SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085705
+#EXTINF:-1,• A&E FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085706
+#EXTINF:-1,• A&E HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085707
+#EXTINF:-1,• A&E SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085708
+#EXTINF:-1,• AMC FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085709
+#EXTINF:-1,• AMC HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085710
+#EXTINF:-1,• AMC SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085711
+#EXTINF:-1,• AXN FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085712
+#EXTINF:-1,• AXN HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085713
+#EXTINF:-1,• AXN SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085714
+#EXTINF:-1,• Canal Brasil FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085715
+#EXTINF:-1,• Canal Brasil HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085716
+#EXTINF:-1,• Canal Brasil SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085717
+#EXTINF:-1,• Cinemax FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085718
+#EXTINF:-1,• Cinemax HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085719
+#EXTINF:-1,• Cinemax SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085720
+#EXTINF:-1,• Film&Arts FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085721
+#EXTINF:-1,• Film&Arts HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085722
+#EXTINF:-1,• Film&Arts SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085723
+#EXTINF:-1,• Lifetime FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085724
+#EXTINF:-1,• Lifetime HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085725
+#EXTINF:-1,• Lifetime SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085726
+#EXTINF:-1,• Megapix FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085727
+#EXTINF:-1,• Megapix HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085728
+#EXTINF:-1,• Megapix SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085729
+#EXTINF:-1,• Paramount Network FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085730
+#EXTINF:-1,• Paramount Network HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085731
+#EXTINF:-1,• Paramount Network SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085732
+#EXTINF:-1,• Sony Channel FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085733
+#EXTINF:-1,• Sony Channel HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085734
+#EXTINF:-1,• Sony Channel SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085735
+#EXTINF:-1,• Sony Movies FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085736
+#EXTINF:-1,• Sony Movies HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085737
+#EXTINF:-1,• Sony Movies SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085738
+#EXTINF:-1,• Space FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085739
+#EXTINF:-1,• Space HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085740
+#EXTINF:-1,• Space SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085741
+#EXTINF:-1,• Studio Universal FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085742
+#EXTINF:-1,• Studio Universal HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085743
+#EXTINF:-1,• Studio Universal SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085744
+#EXTINF:-1,• TCM FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085745
+#EXTINF:-1,• TCM HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085746
+#EXTINF:-1,• TCM SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085747
+#EXTINF:-1,• TNT FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085748
+#EXTINF:-1,• TNT HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085749
+#EXTINF:-1,• TNT Novelas FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085750
+#EXTINF:-1,• TNT Novelas HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085751
+#EXTINF:-1,• TNT Novelas SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085752
+#EXTINF:-1,• TNT SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085753
+#EXTINF:-1,• TNT Séries FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085754
+#EXTINF:-1,• TNT Séries HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085755
+#EXTINF:-1,• TNT Séries SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085756
+#EXTINF:-1,• USA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085757
+#EXTINF:-1,• USA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085758
+#EXTINF:-1,• USA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085759
+#EXTINF:-1,• Universal TV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085760
+#EXTINF:-1,• Universal TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085761
+#EXTINF:-1,• Universal TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085762
+#EXTINF:-1,• Warner Channel FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085763
+#EXTINF:-1,• Warner Channel HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085764
+#EXTINF:-1,• Warner Channel SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085765
+#EXTINF:-1,Universal Premiere FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085766
+#EXTINF:-1,Universal Premiere HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085767
+#EXTINF:-1,Universal Premiere SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085768
+#EXTINF:-1,Universal Reality FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085769
+#EXTINF:-1,Universal Reality HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085770
+#EXTINF:-1,Universal Reality SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8085771
+#EXTINF:-1,• Boa Vontade TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087000
+#EXTINF:-1,• Boa Vontade TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087001
+#EXTINF:-1,• Boas Novas HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087002
+#EXTINF:-1,• Boas Novas SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087003
+#EXTINF:-1,• Canção Nova HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087004
+#EXTINF:-1,• Canção Nova SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087005
+#EXTINF:-1,• Ideal TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087006
+#EXTINF:-1,• Ideal TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087007
+#EXTINF:-1,• Igreja Mundial HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087008
+#EXTINF:-1,• Igreja Mundial SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087009
+#EXTINF:-1,• Igreja Universal HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087010
+#EXTINF:-1,• Igreja Universal SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087011
+#EXTINF:-1,• RIT TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087012
+#EXTINF:-1,• RIT TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087013
+#EXTINF:-1,• Rede Gospel HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087014
+#EXTINF:-1,• Rede Gospel SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087015
+#EXTINF:-1,• Rede Gênesis HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087016
+#EXTINF:-1,• Rede Gênesis SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087017
+#EXTINF:-1,• Rede Século 21 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087018
+#EXTINF:-1,• Rede Século 21 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087019
+#EXTINF:-1,• Rede Vida HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087020
+#EXTINF:-1,• Rede Vida SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087021
+#EXTINF:-1,• TV Aparecida HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087022
+#EXTINF:-1,• TV Aparecida SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087023
+#EXTINF:-1,• TV Evangelizar HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087024
+#EXTINF:-1,• TV Evangelizar SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087025
+#EXTINF:-1,• TV Novo Tempo HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8087026
+#EXTINF:-1,• Animal Planet FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217496
+#EXTINF:-1,• Animal Planet HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217497
+#EXTINF:-1,• Animal Planet SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217498
+#EXTINF:-1,• Discovery Channel FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217499
+#EXTINF:-1,• Discovery Channel HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217500
+#EXTINF:-1,• Discovery Channel SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217501
+#EXTINF:-1,• Discovery Home and Health FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217502
+#EXTINF:-1,• Discovery Home and Health HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217503
+#EXTINF:-1,• Discovery Home and Health SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217504
+#EXTINF:-1,• Discovery Science FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217505
+#EXTINF:-1,• Discovery Science HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217506
+#EXTINF:-1,• Discovery Science SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217507
+#EXTINF:-1,• Discovery Theather FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217508
+#EXTINF:-1,• Discovery Theather HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217509
+#EXTINF:-1,• Discovery Theather SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217510
+#EXTINF:-1,• Discovery Turbo FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217511
+#EXTINF:-1,• Discovery Turbo HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217512
+#EXTINF:-1,• Discovery Turbo SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217513
+#EXTINF:-1,• Discovery World FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217514
+#EXTINF:-1,• Discovery World HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217515
+#EXTINF:-1,• Discovery World SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217516
+#EXTINF:-1,• Fish TV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217517
+#EXTINF:-1,• Fish TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217518
+#EXTINF:-1,• Fish TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217519
+#EXTINF:-1,• HGTV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217520
+#EXTINF:-1,• HGTV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217521
+#EXTINF:-1,• HGTV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217522
+#EXTINF:-1,• History 2 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217523
+#EXTINF:-1,• History 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217524
+#EXTINF:-1,• History 2 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217525
+#EXTINF:-1,• History FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217526
+#EXTINF:-1,• History HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217527
+#EXTINF:-1,• History SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217528
+#EXTINF:-1,• ID Investigacao Discovery FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217529
+#EXTINF:-1,• ID Investigacao Discovery HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217530
+#EXTINF:-1,• ID Investigacao Discovery SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217531
+#EXTINF:-1,• TLC FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217535
+#EXTINF:-1,• TLC HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217536
+#EXTINF:-1,• TLC SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217537
+#EXTINF:-1,• Adult Swin SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217538
+#EXTINF:-1,• Arte 1 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217539
+#EXTINF:-1,• Arte 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217540
+#EXTINF:-1,• Arte 1 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217541
+#EXTINF:-1,• BIS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217542
+#EXTINF:-1,• BIS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217543
+#EXTINF:-1,• BIS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217544
+#EXTINF:-1,• Comedy Central FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217545
+#EXTINF:-1,• Comedy Central HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217546
+#EXTINF:-1,• Comedy Central SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217547
+#EXTINF:-1,• Curta FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217548
+#EXTINF:-1,• Curta HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217549
+#EXTINF:-1,• Curta SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217550
+#EXTINF:-1,• E! FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217551
+#EXTINF:-1,• E! HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217552
+#EXTINF:-1,• E! SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217553
+#EXTINF:-1,• Fashion TV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217554
+#EXTINF:-1,• Fashion TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217555
+#EXTINF:-1,• Fashion TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217556
+#EXTINF:-1,• Food Network FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217557
+#EXTINF:-1,• Food Network HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217558
+#EXTINF:-1,• Food Network SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217559
+#EXTINF:-1,• GNT FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217560
+#EXTINF:-1,• GNT HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217561
+#EXTINF:-1,• GNT SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217562
+#EXTINF:-1,• MTV 00s FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217563
+#EXTINF:-1,• MTV 00s HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217564
+#EXTINF:-1,• MTV 00s SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217565
+#EXTINF:-1,• MTV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217566
+#EXTINF:-1,• MTV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217567
+#EXTINF:-1,• MTV Live FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217568
+#EXTINF:-1,• MTV Live HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217569
+#EXTINF:-1,• MTV Live SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217570
+#EXTINF:-1,• MTV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217571
+#EXTINF:-1,• Modo Viagem FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217572
+#EXTINF:-1,• Modo Viagem HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217573
+#EXTINF:-1,• Modo Viagem SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217574
+#EXTINF:-1,• Multishow FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217575
+#EXTINF:-1,• Multishow HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217576
+#EXTINF:-1,• Multishow SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217577
+#EXTINF:-1,• Music Box Brazil FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217578
+#EXTINF:-1,• Music Box Brazil HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217579
+#EXTINF:-1,• Music Box Brazil SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217580
+#EXTINF:-1,• Polishop TV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217584
+#EXTINF:-1,• Polishop TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217585
+#EXTINF:-1,• Polishop TV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217586
+#EXTINF:-1,• Prime Box Brazil FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217587
+#EXTINF:-1,• Prime Box Brazil HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217588
+#EXTINF:-1,• Prime Box Brazil SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217589
+#EXTINF:-1,• Sabor & Arte FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217590
+#EXTINF:-1,• Sabor & Arte HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217591
+#EXTINF:-1,• Sabor & Arte SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217592
+#EXTINF:-1,• Travel Box Brazil FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217593
+#EXTINF:-1,• Travel Box Brazil HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217594
+#EXTINF:-1,• Travel Box Brazil SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217595
+#EXTINF:-1,• Viva FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217596
+#EXTINF:-1,• Viva HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217597
+#EXTINF:-1,• Viva SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217598
+#EXTINF:-1,• Disney Plus 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217599
+#EXTINF:-1,• Disney Plus 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217600
+#EXTINF:-1,• Disney Plus 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217601
+#EXTINF:-1,• Disney Plus 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217602
+#EXTINF:-1,• Disney Plus 5 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217603
+#EXTINF:-1,• Disney Plus 6 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217604
+#EXTINF:-1,• Disney Plus 7 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217605
+#EXTINF:-1,• Disney Plus 8 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217606
+#EXTINF:-1,• Cartoon Network FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217607
+#EXTINF:-1,• Cartoon Network HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217608
+#EXTINF:-1,• Cartoon Network SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217609
+#EXTINF:-1,• Cartoonito HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217610
+#EXTINF:-1,• Cartoonito SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217611
+#EXTINF:-1,• Cartoonito_FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217612
+#EXTINF:-1,• Discovery Kids FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217613
+#EXTINF:-1,• Discovery Kids HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217614
+#EXTINF:-1,• Discovery Kids SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217615
+#EXTINF:-1,• DreamWorks FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217619
+#EXTINF:-1,• DreamWorks HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217620
+#EXTINF:-1,• DreamWorks SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217621
+#EXTINF:-1,• Gloob FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217622
+#EXTINF:-1,• Gloob HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217623
+#EXTINF:-1,• Gloob SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217624
+#EXTINF:-1,• Gloobinho FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217625
+#EXTINF:-1,• Gloobinho HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217626
+#EXTINF:-1,• Gloobinho SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217627
+#EXTINF:-1,• Nick Jr HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217628
+#EXTINF:-1,• Nick Jr SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217629
+#EXTINF:-1,• Nickelodeon FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217630
+#EXTINF:-1,• Nickelodeon HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217631
+#EXTINF:-1,• Nickelodeon SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217632
+#EXTINF:-1,• Retrô Cartoon FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217633
+#EXTINF:-1,• Retrô Cartoon HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217634
+#EXTINF:-1,• Retrô Cartoon SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217635
+#EXTINF:-1,• TV Kids Mais FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217636
+#EXTINF:-1,• TV Kids Mais HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217637
+#EXTINF:-1,• TV Kids Mais SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217638
+#EXTINF:-1,• TV Rá Tim Bum FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217639
+#EXTINF:-1,• TV Rá Tim Bum HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217640
+#EXTINF:-1,• TV Rá Tim Bum SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217641
+#EXTINF:-1,• Tooncast FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217642
+#EXTINF:-1,• Tooncast HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217643
+#EXTINF:-1,• Tooncast SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217644
+#EXTINF:-1,• ZooMoo Kids FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217645
+#EXTINF:-1,• ZooMoo Kids HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217646
+#EXTINF:-1,• ZooMoo Kids SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217647
+#EXTINF:-1,• HBO 2 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217667
+#EXTINF:-1,• HBO 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217668
+#EXTINF:-1,• HBO 2 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217669
+#EXTINF:-1,• HBO FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217670
+#EXTINF:-1,• HBO Family FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217671
+#EXTINF:-1,• HBO Family HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217672
+#EXTINF:-1,• HBO Family SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217673
+#EXTINF:-1,• HBO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217674
+#EXTINF:-1,• HBO Mundi FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217675
+#EXTINF:-1,• HBO Mundi HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217676
+#EXTINF:-1,• HBO Mundi SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217677
+#EXTINF:-1,• HBO Plus FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217678
+#EXTINF:-1,• HBO Plus HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217679
+#EXTINF:-1,• HBO Plus SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217680
+#EXTINF:-1,• HBO Pop FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217681
+#EXTINF:-1,• HBO Pop HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217682
+#EXTINF:-1,• HBO Pop SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217683
+#EXTINF:-1,• HBO SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217684
+#EXTINF:-1,• HBO Signature FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217685
+#EXTINF:-1,• HBO Signature HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217686
+#EXTINF:-1,• HBO Signature SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217687
+#EXTINF:-1,• HBO Xtreme FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217688
+#EXTINF:-1,• HBO Xtreme HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217689
+#EXTINF:-1,• HBO Xtreme SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217690
+#EXTINF:-1,TV NOVA RN
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217691
+#EXTINF:-1,TV ASSEMBLEIA ALAGOAS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217692
+#EXTINF:-1,TV PADRE CICERO CEARA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217693
+#EXTINF:-1,TV J.SID
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217694
+#EXTINF:-1,CONECTV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217695
+#EXTINF:-1,REDE MAIS FAMILIA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217696
+#EXTINF:-1,TV CENTRAL
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217697
+#EXTINF:-1,TV ARACATI CEARA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217698
+#EXTINF:-1,TV METROPOLE CEARA
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217699
+#EXTINF:-1,TV AVIVANDO AS NAÇÕES
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217700
+#EXTINF:-1,CANAL UOL HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8217701
+#EXTINF:-1,TV CULTURA FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218145
+#EXTINF:-1,• A&E H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218146
+#EXTINF:-1,• AMC H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218147
+#EXTINF:-1,• AXN H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218148
+#EXTINF:-1,• Animal Planet H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218149
+#EXTINF:-1,• Band Sports H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218150
+#EXTINF:-1,• Canal Brasil H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218151
+#EXTINF:-1,• Cartoon Network H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218152
+#EXTINF:-1,• Cinemax H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218154
+#EXTINF:-1,• Comedy Central H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218155
+#EXTINF:-1,• Discovery Channel H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218156
+#EXTINF:-1,• Discovery H&H H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218157
+#EXTINF:-1,• Discovery ID H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218158
+#EXTINF:-1,• Discovery Kids H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218159
+#EXTINF:-1,• Discovery Science H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218160
+#EXTINF:-1,• Discovery Theater H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218161
+#EXTINF:-1,• Discovery Turbo H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218162
+#EXTINF:-1,• Discovery World H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218163
+#EXTINF:-1,• ESPN 1 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218164
+#EXTINF:-1,• ESPN 2 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218165
+#EXTINF:-1,• ESPN 5 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218166
+#EXTINF:-1,• ESPN 6 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218167
+#EXTINF:-1,• Food Network H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218169
+#EXTINF:-1,• GNT H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218170
+#EXTINF:-1,• Globo News H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218171
+#EXTINF:-1,• Gloob H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218172
+#EXTINF:-1,• Gloobinho H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218173
+#EXTINF:-1,• HBO 2 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218174
+#EXTINF:-1,• HBO Family H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218175
+#EXTINF:-1,• HBO H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218176
+#EXTINF:-1,• HBO Mundi H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218177
+#EXTINF:-1,• HBO Plus H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218178
+#EXTINF:-1,• HBO Pop H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218179
+#EXTINF:-1,• HBO Signature H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218180
+#EXTINF:-1,• HBO Xtreme H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218181
+#EXTINF:-1,• HGTV H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218182
+#EXTINF:-1,• History 2 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218183
+#EXTINF:-1,• MTV 00s H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218184
+#EXTINF:-1,• Megapix H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218185
+#EXTINF:-1,• Modo Viagem H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218186
+#EXTINF:-1,• Multishow H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218187
+#EXTINF:-1,• Nick H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218189
+#EXTINF:-1,• OFF H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218190
+#EXTINF:-1,• Premiere 2 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218191
+#EXTINF:-1,• Premiere 3 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218192
+#EXTINF:-1,• Premiere 5 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218193
+#EXTINF:-1,• Premiere 6 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218194
+#EXTINF:-1,• Premiere 7 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218195
+#EXTINF:-1,• Premiere Clubes H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218196
+#EXTINF:-1,• Prime Box H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218197
+#EXTINF:-1,• Sony Channel H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218198
+#EXTINF:-1,• Space H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218199
+#EXTINF:-1,• SporTV 1 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218200
+#EXTINF:-1,• SporTV 2 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218201
+#EXTINF:-1,• SporTV 3 H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218202
+#EXTINF:-1,• Star Channel H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218203
+#EXTINF:-1,• Studio Universal H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218204
+#EXTINF:-1,• TLC H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218205
+#EXTINF:-1,• TNT H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218206
+#EXTINF:-1,• TNT Novelas H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218207
+#EXTINF:-1,• TNT Séries H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218208
+#EXTINF:-1,• Telecine Cult H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218209
+#EXTINF:-1,• Telecine Fun H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218210
+#EXTINF:-1,• Telecine Pipoca H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218211
+#EXTINF:-1,• Telecine Premium H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218212
+#EXTINF:-1,• Telecine Touch H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218213
+#EXTINF:-1,• USA H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218214
+#EXTINF:-1,• Universal Channel H265
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218215
+#EXTINF:-1,• Viva 4K
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218216
+#EXTINF:-1,VIVA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218257
+#EXTINF:-1,ANIMAL PLANET SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218258
+#EXTINF:-1,AXN SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218259
+#EXTINF:-1,CARTOON NETWORK SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218260
+#EXTINF:-1,CINEMAX SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218261
+#EXTINF:-1,ESPN 2 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218262
+#EXTINF:-1,ESPN SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218263
+#EXTINF:-1,ESPN EXTRA SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218264
+#EXTINF:-1,GLOBO NEWS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218265
+#EXTINF:-1,JP NEWS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218266
+#EXTINF:-1,MEGAPIX SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218267
+#EXTINF:-1,RECORD NEWS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218268
+#EXTINF:-1,SPACE SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218269
+#EXTINF:-1,TNT SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218270
+#EXTINF:-1,WARNER CHANNEL SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218271
+#EXTINF:-1,TRU TV-
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218272
+#EXTINF:-1,MULTISHOW SD -
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218273
+#EXTINF:-1,RedeTV SD -
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218274
+#EXTINF:-1,H2 SD -
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218275
+#EXTINF:-1,AMC SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218277
+#EXTINF:-1,CNN BRASIL SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218278
+#EXTINF:-1,FOOD NETWORK SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218279
+#EXTINF:-1,GNT SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218280
+#EXTINF:-1,????Dragon Ball Z Kai 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218282
+#EXTINF:-1,Dragon Ball Gt 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218283
+#EXTINF:-1,????Dragon Ball Super 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218284
+#EXTINF:-1,Os Cavaleiros Dos Zodiacos 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218285
+#EXTINF:-1,????Naruto Shippuden 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218286
+#EXTINF:-1,????Boruto 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218287
+#EXTINF:-1,????Hantaro 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218288
+#EXTINF:-1,????Jiraya 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218289
+#EXTINF:-1,Chapolin Colorado 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218290
+#EXTINF:-1,24H • Chaves (1973)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218291
+#EXTINF:-1,Masha e o Urso 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218292
+#EXTINF:-1,Bob Esponja 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218293
+#EXTINF:-1,????Pokemon 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218294
+#EXTINF:-1,????Digimon 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218295
+#EXTINF:-1,Ben 10 2005 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218296
+#EXTINF:-1,Poderoso Chefinho 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218297
+#EXTINF:-1,Mickey e Donald 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218298
+#EXTINF:-1,????Corrida Maluca 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218299
+#EXTINF:-1,????Super Mario Bross 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218300
+#EXTINF:-1,????Patolino 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218301
+#EXTINF:-1,????Aladdin 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218302
+#EXTINF:-1,????Hantaro 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218303
+#EXTINF:-1,????Luluzinha 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218304
+#EXTINF:-1,Jaspion 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218305
+#EXTINF:-1,????Thundercats 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218306
+#EXTINF:-1,Mundo De Boby 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218307
+#EXTINF:-1,????Tom & Jerry 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218308
+#EXTINF:-1,Scoobdoo 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218309
+#EXTINF:-1,????Popeye 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218310
+#EXTINF:-1,Os Simpsons 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218311
+#EXTINF:-1,Show da Luna 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218312
+#EXTINF:-1,????PicaPau 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218313
+#EXTINF:-1,Cavaleiros Zodiaco 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218314
+#EXTINF:-1,????Os Flistony 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218315
+#EXTINF:-1,????Um Maluco no Pedaço 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218316
+#EXTINF:-1,????Os Trapalhões 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218317
+#EXTINF:-1,2 Homens e Meio 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218318
+#EXTINF:-1,????Todo Mundo Odeia O Cris 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218319
+#EXTINF:-1,????Pegadinhas Silvio Santos 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218320
+#EXTINF:-1,As Visões da Raven 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218321
+#EXTINF:-1,????A Grande Família 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218322
+#EXTINF:-1,????Escolinha Raimundo 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218323
+#EXTINF:-1,Eu a Patroa e as Crianças 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218324
+#EXTINF:-1,Tô de Graça 24h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218325
+#EXTINF:-1,LIKE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218326
+#EXTINF:-1,ISTV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218327
+#EXTINF:-1,GEFAST HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218328
+#EXTINF:-1,FUTURA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218329
+#EXTINF:-1,DOG TV FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218331
+#EXTINF:-1,Estrela de Casa - Centro de Treinamento 1
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218332
+#EXTINF:-1,Estrela de Casa - Centro de Treinamento 2
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218333
+#EXTINF:-1,Estrela de Casa - Mosaico
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218334
+#EXTINF:-1,Estrela de Casa - Dinamica
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218335
+#EXTINF:-1,Estrela de Casa - Lounge
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218336
+#EXTINF:-1,Estrela de Casa - Dormitorio
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218337
+#EXTINF:-1,Estrela de Casa - Refeitorio
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218338
+#EXTINF:-1,Estrela de Casa - Corredor Camarim
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218339
+#EXTINF:-1,Estrela de Casa - Sala de Composição
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218340
+#EXTINF:-1,Estrela de Casa - Sala de Jogos
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218341
+#EXTINF:-1,Estrela de Casa - Espaço Corpo
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218342
+#EXTINF:-1,Estrela de Casa - Deck / Aréa de Treino
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218343
+#EXTINF:-1,• SporTV 1 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218344
+#EXTINF:-1,• SporTV 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218345
+#EXTINF:-1,• SporTV 1 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218346
+#EXTINF:-1,• SporTV 2 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218347
+#EXTINF:-1,• SporTV 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218348
+#EXTINF:-1,• SporTV 2 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218349
+#EXTINF:-1,• SporTV 3 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218350
+#EXTINF:-1,• SporTV 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218351
+#EXTINF:-1,• SporTV 3 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218352
+#EXTINF:-1,• ESPN 2 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218353
+#EXTINF:-1,• ESPN 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218354
+#EXTINF:-1,• ESPN 2 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218355
+#EXTINF:-1,• ESPN 3 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218356
+#EXTINF:-1,• ESPN 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218357
+#EXTINF:-1,• ESPN 3 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218358
+#EXTINF:-1,• ESPN 4 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218359
+#EXTINF:-1,• ESPN 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218360
+#EXTINF:-1,• ESPN 4 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218361
+#EXTINF:-1,• ESPN 5 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218362
+#EXTINF:-1,• ESPN 5 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218363
+#EXTINF:-1,• ESPN 5 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218364
+#EXTINF:-1,• ESPN 6 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218365
+#EXTINF:-1,• ESPN 6 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218366
+#EXTINF:-1,• ESPN 6 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218367
+#EXTINF:-1,• ESPN FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218368
+#EXTINF:-1,• ESPN HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218369
+#EXTINF:-1,• ESPN SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218370
+#EXTINF:-1,• Band Sports FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218371
+#EXTINF:-1,• Band Sports HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218372
+#EXTINF:-1,• Band Sports SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218373
+#EXTINF:-1,• Combate FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218374
+#EXTINF:-1,• Combate HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218375
+#EXTINF:-1,• Combate SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218376
+#EXTINF:-1,• OFF FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218377
+#EXTINF:-1,• OFF HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218378
+#EXTINF:-1,• OFF SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218379
+#EXTINF:-1,• Woohoo FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218380
+#EXTINF:-1,• Woohoo HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218381
+#EXTINF:-1,• Woohoo SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218382
+#EXTINF:-1,X-Sports FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218383
+#EXTINF:-1,X-Sports HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218384
+#EXTINF:-1,X-Sports SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218385
+#EXTINF:-1,• Band Bahia HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218386
+#EXTINF:-1,• Band Bahia SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218387
+#EXTINF:-1,• Band Belém HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218388
+#EXTINF:-1,• Band Belém SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218389
+#EXTINF:-1,• Band Brasília HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218390
+#EXTINF:-1,• Band Brasília SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218391
+#EXTINF:-1,• Band Campinas HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218392
+#EXTINF:-1,• Band Campinas SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218393
+#EXTINF:-1,• Band Ceará HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218394
+#EXTINF:-1,• Band Ceará SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218395
+#EXTINF:-1,• Band Goiania HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218396
+#EXTINF:-1,• Band Goiania SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218397
+#EXTINF:-1,• Band Manaus HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218398
+#EXTINF:-1,• Band Manaus SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218399
+#EXTINF:-1,• Band Minas HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218400
+#EXTINF:-1,• Band Minas SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218401
+#EXTINF:-1,• Band Natal HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218402
+#EXTINF:-1,• Band Natal SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218403
+#EXTINF:-1,• Band Paraíba HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218404
+#EXTINF:-1,• Band Paraíba SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218405
+#EXTINF:-1,• Band RS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218406
+#EXTINF:-1,• Band RS SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218407
+#EXTINF:-1,• Band Rio FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218408
+#EXTINF:-1,• Band Rio HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218409
+#EXTINF:-1,• Band Rio SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218410
+#EXTINF:-1,• Band SP FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218411
+#EXTINF:-1,• Band SP HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218412
+#EXTINF:-1,• Band SP SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218413
+#EXTINF:-1,• Band São José dos Campos HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218414
+#EXTINF:-1,• Band São José dos Campos SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218415
+#EXTINF:-1,• Band TV Tribuna Recife HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218416
+#EXTINF:-1,• Band TV Tribuna Recife SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218417
+#EXTINF:-1,• Band Taroba Curitiba HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218418
+#EXTINF:-1,• Band Taroba Curitiba SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218419
+#EXTINF:-1,• UFC Fight Pass 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218420
+#EXTINF:-1,• UFC Fight Pass 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218421
+#EXTINF:-1,• Amazon Prime Video 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218422
+#EXTINF:-1,• Amazon Prime Video 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218423
+#EXTINF:-1,• Amazon Prime Video 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218424
+#EXTINF:-1,• Amazon Prime Video 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218425
+#EXTINF:-1,•   TV Max 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218426
+#EXTINF:-1,•   TV Max 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218427
+#EXTINF:-1,•   TV Max 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218428
+#EXTINF:-1,• Canal Goat 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218429
+#EXTINF:-1,• Canal Goat 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218430
+#EXTINF:-1,• Cazé TV 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218431
+#EXTINF:-1,• Cazé TV 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218432
+#EXTINF:-1,• Cazé TV 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218433
+#EXTINF:-1,• Cazé TV 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218434
+#EXTINF:-1,• Cazé TV 5 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218435
+#EXTINF:-1,• Cazé TV 6 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218436
+#EXTINF:-1,• Cazé TV Youtube HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218437
+#EXTINF:-1,• DAZN 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218438
+#EXTINF:-1,• DAZN 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218439
+#EXTINF:-1,• DAZN 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218440
+#EXTINF:-1,• DAZN 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218441
+#EXTINF:-1,• FIFA+ 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218442
+#EXTINF:-1,• FIFA+ 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218443
+#EXTINF:-1,• FIFA+ 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218444
+#EXTINF:-1,• FIFA+ 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218445
+#EXTINF:-1,• Formula 1 TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218446
+#EXTINF:-1,• Furacão Play 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218447
+#EXTINF:-1,• Furacão Play 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218448
+#EXTINF:-1,• Liga Futsal 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218449
+#EXTINF:-1,• Liga Futsal 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218450
+#EXTINF:-1,• Liga Futsal 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218451
+#EXTINF:-1,• Liga Futsal 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218452
+#EXTINF:-1,• NSports 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218453
+#EXTINF:-1,• NSports 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218454
+#EXTINF:-1,• NSports 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218455
+#EXTINF:-1,• Nosso Futebol 01 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218456
+#EXTINF:-1,• Nosso Futebol 02 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218457
+#EXTINF:-1,• Nosso Futebol 03 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218458
+#EXTINF:-1,• Nosso Futebol 04 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218459
+#EXTINF:-1,• Olympia TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218460
+#EXTINF:-1,• One Football 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218461
+#EXTINF:-1,• One Football 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218462
+#EXTINF:-1,• One Football 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218463
+#EXTINF:-1,• One Football 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218464
+#EXTINF:-1,• Paramount Plus 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218465
+#EXTINF:-1,• Paramount Plus 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218466
+#EXTINF:-1,• Paramount Plus 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218467
+#EXTINF:-1,• Paramount Plus 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218468
+#EXTINF:-1,• Canal GOAT 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218469
+#EXTINF:-1,• Zapping Sports 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218470
+#EXTINF:-1,• Zapping Sports 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218471
+#EXTINF:-1,• Zapping Sports 3 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218472
+#EXTINF:-1,• Zapping Mix Esportes HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218473
+#EXTINF:-1,• TV Itnet Sports 1 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218474
+#EXTINF:-1,• Canal GOAT 4 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218475
+#EXTINF:-1,• TV Itnet Sports 2 HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218476
+#EXTINF:-1,• Papão TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218477
+#EXTINF:-1,PY | TELEFUTURO HD **
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218478
+#EXTINF:-1,PY | TELEFUTURO SD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218479
+#EXTINF:-1,PY | C9N NOTICIAS HD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218480
+#EXTINF:-1,PY | C9N NOTICIAS SD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218481
+#EXTINF:-1,PY | SNT HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218482
+#EXTINF:-1,PY | RPC HD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218483
+#EXTINF:-1,PY | paravision
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218484
+#EXTINF:-1,PY | LA TELE HD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218485
+#EXTINF:-1,PY | SUR TV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218486
+#EXTINF:-1,PY | GEN TV HD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218487
+#EXTINF:-1,PY | GEN SD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218488
+#EXTINF:-1,PY | NOTICIAS PY HD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218489
+#EXTINF:-1,PY | NOTICIAS PY SD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218490
+#EXTINF:-1,UR | CANAL 4 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218491
+#EXTINF:-1,UR | CANAL 4 MONTEC@RLO HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218492
+#EXTINF:-1,UR | CANAL 4 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218493
+#EXTINF:-1,UR | CANAL 10 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218494
+#EXTINF:-1,UR | CANAL 10 SAETA HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218495
+#EXTINF:-1,UR | CANAL 10 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218496
+#EXTINF:-1,UR | CANAL 12 FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218497
+#EXTINF:-1,UR | CANAL 12 TELEDOCE HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218498
+#EXTINF:-1,UR | CANAL 12 SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218499
+#EXTINF:-1,UR | CANAL LA RED HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218500
+#EXTINF:-1,UR | A+V HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218501
+#EXTINF:-1,UR | VTV   FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218502
+#EXTINF:-1,UR | VTV HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218503
+#EXTINF:-1,UR | VTV SD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218504
+#EXTINF:-1,UR | VTV PLUS  HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218505
+#EXTINF:-1,UR | VTV PLUS SD-h
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218506
+#EXTINF:-1,UR | VTV PLUS FHD+H
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218507
+#EXTINF:-1,UR | TV CIUDAD HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218508
+#EXTINF:-1,URU || TNU  CÅNAL 5 HD (I)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218509
+#EXTINF:-1,MAROÑAS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218510
+#EXTINF:-1,VEN || VENEVISION PLUS SD (I)
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218553
+#EXTINF:-1,NUBEH TV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218557
+#EXTINF:-1,BOL : RED UNO LA PAZ HD.
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218570
+#EXTINF:-1,BOL : RED UNO COCHABANBA HD.
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218571
+#EXTINF:-1,BOL : UNITEL LA PAZ HD.
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218573
+#EXTINF:-1,BOL : ATB SATA CRUZ HD.
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218575
+#EXTINF:-1,BOL : RED PAT SANTA CRUZ HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218578
+#EXTINF:-1,BOL : RED PAT LA PAZ HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218579
+#EXTINF:-1,BOL : BOLIVISION HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218580
+#EXTINF:-1,RED 24 | EL ALTO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218599
+#EXTINF:-1,FTV | SCZ | HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218600
+#EXTINF:-1,SEO TV KIDS | HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218605
+#EXTINF:-1,BJJ STARS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218995
+#EXTINF:-1,BJJ STARS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218996
+#EXTINF:-1,BJJ STARS HD*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218997
+#EXTINF:-1,UFC FIGHT PASS FHD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218998
+#EXTINF:-1,UFC FIGHT PASS HD
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8218999
+#EXTINF:-1,UFC FIGHT PASS
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219000
+#EXTINF:-1,UFC FIGHT PASS*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219001
+#EXTINF:-1,UFC TV
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219002
+#EXTINF:-1,UFC TV*
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219003
+#EXTINF:-1,UFC FIGHT PASS INTER 1
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219004
+#EXTINF:-1,UFC FIGHT PASS INTER 2
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219005
+#EXTINF:-1,UFC FIGHT PASS INTER 3
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219006
+#EXTINF:-1,UNIVERSAL SD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219429
+#EXTINF:-1,UNIVERSAL HD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219430
+#EXTINF:-1,UNIVERSAL FHD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219431
+#EXTINF:-1,STUDIO UNIVERSAL SD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219456
+#EXTINF:-1,STUDIO UNIVERSAL HD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219457
+#EXTINF:-1,STUDIO UNIVERSAL FHD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219458
+#EXTINF:-1,CANAL SONY SD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219498
+#EXTINF:-1,CANAL SONY HD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219499
+#EXTINF:-1,CANAL SONY FHD LEGENDADO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219500
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219567
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219568
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219569
+#EXTINF:-1,24H-BEN 10 OMNIVERSE S04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219570
+#EXTINF:-1,24H-BICUDO
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219573
+#EXTINF:-1,24H-BOB ZOOM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219588
+#EXTINF:-1,24H-BOOM
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219590
+#EXTINF:-1,24H-CHOWDER
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219634
+#EXTINF:-1,24H-COELHO RICOCHETE
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219640
+#EXTINF:-1,24H-DC COMICS-01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219646
+#EXTINF:-1,24H-DC COMICS-02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219647
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S01
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219658
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S02
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219659
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S03
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219660
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S04
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219661
+#EXTINF:-1,24H-DC COMICS-LEGENDS OF TOMORROW S05
+http://veloz.tvbrlive.com:80/gdanielly/gdanielly2396/8219662
