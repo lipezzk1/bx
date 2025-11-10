@@ -1,0 +1,613 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP FHD" tvg-logo="https://logos.sologos.art/server/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/62169
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP HD" tvg-logo="https://logos.sologos.art/server/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1948
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="Globo SP" tvg-logo="https://logos.sologos.art/server/Globo%20S%c3%a3o%20Paulo.png" group-title="GLOBO SUDESTE",Globo SP
+http://mw3.tvzinha.org:8080/794498560/398266515/1947
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ FHD" tvg-logo="https://logos.sologos.art/server/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1943
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ HD" tvg-logo="https://logos.sologos.art/server/Globo%20Rio.png" group-title="GLOBO SUDESTE",Globo RJ HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1942
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO FHD" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1891
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2144
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="HBO ",HBO
+http://mw3.tvzinha.org:8080/794498560/398266515/2139
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 FHD" tvg-logo="https://logos.sologos.art/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1890
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2 HD" tvg-logo="https://logos.sologos.art/server/HBO%202%20HD.png" group-title="HBO ",HBO 2 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2141
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="HBO 2" tvg-logo="https://logos.sologos.art/server/HBO%202.png" group-title="HBO ",HBO 2
+http://mw3.tvzinha.org:8080/794498560/398266515/2140
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1840
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus HD" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2146
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="HBO ",HBO Plus
+http://mw3.tvzinha.org:8080/794498560/398266515/2145
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1839
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="HBO Family HD" tvg-logo="https://logos.sologos.art/server/HBO%20Family%20HD.png" group-title="HBO ",HBO Family HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2143
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://logos.sologos.art/server/HBO%20Family.png" group-title="HBO ",HBO Family
+http://mw3.tvzinha.org:8080/794498560/398266515/2142
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1841
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature HD" tvg-logo="https://logos.sologos.art/server/HBO%20Signature%20HD.png" group-title="HBO ",HBO Signature HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2148
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="HBO Signature" tvg-logo="https://logos.sologos.art/server/HBO%20Signature.png" group-title="HBO ",HBO Signature
+http://mw3.tvzinha.org:8080/794498560/398266515/2147
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1845
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi HD" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2158
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://mw3.tvzinha.org:8080/794498560/398266515/2157
+#EXTINF:-1 tvg-id="HBOMundi.br" tvg-name="HBO Mundi" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="HBO ",HBO Mundi
+http://mw3.tvzinha.org:8080/794498560/398266515/1202
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1847
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP HD" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2162
+#EXTINF:-1 tvg-id="HBOPop.br" tvg-name="HBO POP" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="HBO ",HBO POP
+http://mw3.tvzinha.org:8080/794498560/398266515/2161
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1846
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2160
+#EXTINF:-1 tvg-id="HBOXtreme.br" tvg-name="HBO Xtreme" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="HBO ",HBO Xtreme
+http://mw3.tvzinha.org:8080/794498560/398266515/2159
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC FHD" tvg-logo="https://logos.sologos.art/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1807
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://logos.sologos.art/server/AMC%20HD.png" group-title="FILMES & SERIES",AMC HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2048
+#EXTINF:-1 tvg-id="amc.brasil.br" tvg-name="AMC" tvg-logo="https://logos.sologos.art/server/AMC.png" group-title="FILMES & SERIES",AMC
+http://mw3.tvzinha.org:8080/794498560/398266515/2047
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1810
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="FILMES & SERIES",AXN HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2054
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN" tvg-logo="https://logos.sologos.art/server/AXN.png" group-title="FILMES & SERIES",AXN
+http://mw3.tvzinha.org:8080/794498560/398266515/2053
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN FHD LEG" tvg-logo="https://logos.sologos.art/server/AXN%20HD.png" group-title="LEGENDADOS",AXN FHD LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/24778
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1868
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2242
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="FILMES & SERIES",TNT
+http://mw3.tvzinha.org:8080/794498560/398266515/2241
+#EXTINF:-1 tvg-id="" tvg-name="TNT Alternativo HD" tvg-logo="https://logos.sologos.art/server/TNT%20HD.png" group-title="FILMES & SERIES",TNT Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1283
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT Alternativo" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="FILMES & SERIES",TNT Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1234
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT LEG" tvg-logo="https://logos.sologos.art/server/TNT.png" group-title="LEGENDADOS",TNT LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901860
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 1" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 1
+http://mw3.tvzinha.org:8080/794498560/398266515/40623
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 2" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 2
+http://mw3.tvzinha.org:8080/794498560/398266515/40624
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 3" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 3
+http://mw3.tvzinha.org:8080/794498560/398266515/40625
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 4" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 4
+http://mw3.tvzinha.org:8080/794498560/398266515/40626
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 5" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 5
+http://mw3.tvzinha.org:8080/794498560/398266515/40627
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 6" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 6
+http://mw3.tvzinha.org:8080/794498560/398266515/40628
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 7" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 7
+http://mw3.tvzinha.org:8080/794498560/398266515/40629
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 8" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 8
+http://mw3.tvzinha.org:8080/794498560/398266515/40630
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 9" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 9
+http://mw3.tvzinha.org:8080/794498560/398266515/896436
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10" tvg-logo="https://logos.sologos.art/server/Cine%20Sky.png" group-title="CINE SKY",Cine Sky 10
+http://mw3.tvzinha.org:8080/794498560/398266515/896437
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1816
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2074
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax" tvg-logo="https://logos.sologos.art/server/Cinemax.png" group-title="FILMES & SERIES",Cinemax
+http://mw3.tvzinha.org:8080/794498560/398266515/2073
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD LEG" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="LEGENDADOS",HBO FHD LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/24781
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO LEG" tvg-logo="https://logos.sologos.art/server/HBO.png" group-title="LEGENDADOS",HBO LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901855
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi HD LEG " tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="LEGENDADOS",HBO Mundi HD LEG 
+http://mw3.tvzinha.org:8080/794498560/398266515/2344
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO Mundi LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Mundi.png" group-title="LEGENDADOS",HBO Mundi LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901856
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Plus.png" group-title="LEGENDADOS",HBO Plus LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901865
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Pop.png" group-title="LEGENDADOS",HBO POP LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2360
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO Signature LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Signature.png" group-title="LEGENDADOS",HBO Signature LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901857
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO Xtreme LEG" tvg-logo="https://logos.sologos.art/server/HBO%20Xtreme.png" group-title="LEGENDADOS",HBO Xtreme LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901858
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix LEG" tvg-logo="https://logos.sologos.art/server/Megapix.png" group-title="LEGENDADOS",Megapix LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2362
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel
+http://mw3.tvzinha.org:8080/794498560/398266515/2184
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel FHD" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1859
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="https://logos.sologos.art/server/Paramount%20Channel.png" group-title="FILMES & SERIES",Paramount Channel HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2185
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network
+http://mw3.tvzinha.org:8080/794498560/398266515/901883
+#EXTINF:-1 tvg-id="paramount.network.br" tvg-name="Paramount Network FHD" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/901881
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="https://logos.sologos.art/server/Paramount%20Network.png" group-title="FILMES & SERIES",Paramount Network HD
+http://mw3.tvzinha.org:8080/794498560/398266515/901882
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel FHD" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1814
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel HD" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2069
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="FILMES & SERIES",Sony Channel
+http://mw3.tvzinha.org:8080/794498560/398266515/2068
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel LEG" tvg-logo="https://logos.sologos.art/server/Sony%20Channel.png" group-title="LEGENDADOS",Sony Channel LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901854
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD" tvg-logo="https://logos.sologos.art/server/Space%20HD.png" group-title="FILMES & SERIES",Space FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1862
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="https://logos.sologos.art/server/Space%20HD.png" group-title="FILMES & SERIES",Space HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2217
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space" tvg-logo="https://logos.sologos.art/server/Space.png" group-title="FILMES & SERIES",Space
+http://mw3.tvzinha.org:8080/794498560/398266515/2216
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space LEG" tvg-logo="https://logos.sologos.art/server/Space.png" group-title="LEGENDADOS",Space LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901859
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://logos.sologos.art/server/Studio%20Universal.png" group-title="FILMES & SERIES",Studio Universal
+http://mw3.tvzinha.org:8080/794498560/398266515/2221
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="Studio Universal FHD" tvg-logo="https://logos.sologos.art/server/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1863
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="https://logos.sologos.art/server/Studio%20Universal%20HD.png" group-title="FILMES & SERIES",Studio Universal HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2222
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM FHD " tvg-logo="https://logos.sologos.art/server/TCM.png" group-title="FILMES & SERIES",TCM FHD 
+http://mw3.tvzinha.org:8080/794498560/398266515/47726
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png/250px-Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES & SERIES",TCM
+http://mw3.tvzinha.org:8080/794498560/398266515/2225
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="Telecine Action LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Action.png" group-title="LEGENDADOS",Telecine Action LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2346
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="Telecine Fun LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Fun.png" group-title="LEGENDADOS",Telecine Fun LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2348
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="Telecine Pipoca LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Pipoca.png" group-title="LEGENDADOS",Telecine Pipoca LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2350
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="Telecine Premium LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Premium.png" group-title="LEGENDADOS",Telecine Premium LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2352
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="Telecine Touch LEG" tvg-logo="https://logos.sologos.art/server/Telecine%20Touch.png" group-title="LEGENDADOS",Telecine Touch LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2354
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas FHD 
+http://mw3.tvzinha.org:8080/794498560/398266515/908272
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas HD
+http://mw3.tvzinha.org:8080/794498560/398266515/908273
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/380px-Logo_TNT_Novelas.png" group-title="FILMES & SERIES",TNT Novelas 
+http://mw3.tvzinha.org:8080/794498560/398266515/908274
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FHD" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1869
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2244
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="FILMES & SERIES",TNT Series
+http://mw3.tvzinha.org:8080/794498560/398266515/2243
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series LEG" tvg-logo="https://logos.sologos.art/server/TNT%20Se%CC%81ries.png" group-title="LEGENDADOS",TNT Series LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/901861
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="Warner Channel FHD" tvg-logo="https://logos.sologos.art/server/Warner%20Channel%20HD.png" group-title="FILMES & SERIES",Warner Channel FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1874
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel HD" tvg-logo="https://logos.sologos.art/server/Warner%20Channel%20HD.png" group-title="FILMES & SERIES",Warner Channel HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2265
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner Channel" tvg-logo="https://logos.sologos.art/server/Warner%20Channel.png" group-title="FILMES & SERIES",Warner Channel
+http://mw3.tvzinha.org:8080/794498560/398266515/2264
+#EXTINF:-1 tvg-id="warner.br" tvg-name="Warner HD LEG" tvg-logo="https://logos.sologos.art/server/Warner%20Channel%20HD.png" group-title="LEGENDADOS",Warner HD LEG
+http://mw3.tvzinha.org:8080/794498560/398266515/2367
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="https://logos.sologos.art/server/Film%26Arts.png" group-title="FILMES & SERIES",Film & Arts
+http://mw3.tvzinha.org:8080/794498560/398266515/2280
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet FHD" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1808
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet HD" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2050
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="Animal Planet" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet
+http://mw3.tvzinha.org:8080/794498560/398266515/2049
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet Alternativo HD" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1288
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet Alternativo" tvg-logo="https://logos.sologos.art/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS",Animal Planet Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1177
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1881
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2082
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel.png" group-title="DISCOVERY",Discovery Channel
+http://mw3.tvzinha.org:8080/794498560/398266515/2081
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel%20HD.png" group-title="DISCOVERY",Discovery Channel Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1328
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Alternativo" tvg-logo="https://logos.sologos.art/server/Discovery%20Channel.png" group-title="DISCOVERY",Discovery Channel Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1126
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo%20HD.png" group-title="DISCOVERY",Discovery Turbo FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1824
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo%20HD.png" group-title="DISCOVERY",Discovery Turbo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2093
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo.png" group-title="DISCOVERY",Discovery Turbo
+http://mw3.tvzinha.org:8080/794498560/398266515/2092
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="Discovery Turbo Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo%20HD.png" group-title="DISCOVERY",Discovery Turbo Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1292
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Alternativo" tvg-logo="https://logos.sologos.art/server/Discovery%20Turbo.png" group-title="DISCOVERY",Discovery Turbo Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1129
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="Discovery Home&Health FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1820
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="Discovery Home&Health HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2086
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home&Health" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home&Health
+http://mw3.tvzinha.org:8080/794498560/398266515/2085
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health Alternativo" tvg-logo="https://logos.sologos.art/server/Discovery%20Home%20%26%20Health%20HD.png" group-title="DISCOVERY",Discovery Home & Health Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1127
+#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV FHD" tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1819
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2084
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV " tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV 
+http://mw3.tvzinha.org:8080/794498560/398266515/2083
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo HD " tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV Alternativo HD 
+http://mw3.tvzinha.org:8080/794498560/398266515/46731
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV Alternativo " tvg-logo="https://logos.sologos.art/server/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV Alternativo 
+http://mw3.tvzinha.org:8080/794498560/398266515/46732
+#EXTINF:-1 tvg-id="InvestigationDiscovery.br" tvg-name="Investigation Discovery FHD" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1843
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery HD" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2152
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery.png" group-title="DISCOVERY",Investigation Discovery
+http://mw3.tvzinha.org:8080/794498560/398266515/2151
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery Alternativo" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery.png" group-title="DISCOVERY",Investigation Discovery Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1200
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="Investigation Discovery Alternativo HD" tvg-logo="https://logos.sologos.art/server/Investigation%20Discovery%20HD.png" group-title="DISCOVERY",Investigation Discovery Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1320
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20World%20HD.png" group-title="DISCOVERY",Discovery World FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1825
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="Discovery World HD" tvg-logo="https://logos.sologos.art/server/Discovery%20World%20HD.png" group-title="DISCOVERY",Discovery World HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1309
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://logos.sologos.art/server/Discovery%20World.png" group-title="DISCOVERY",Discovery World
+http://mw3.tvzinha.org:8080/794498560/398266515/2094
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater%20HD.png" group-title="DISCOVERY",Discovery Theater FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1823
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="Discovery Theater HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater%20HD.png" group-title="DISCOVERY",Discovery Theater HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2091
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater.png" group-title="DISCOVERY",Discovery Theater
+http://mw3.tvzinha.org:8080/794498560/398266515/2090
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Theater%20HD.png" group-title="DISCOVERY",Discovery Theater Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1286
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Science%20HD.png" group-title="DISCOVERY",Discovery Science FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1822
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://logos.sologos.art/server/Discovery%20Science.png" group-title="DISCOVERY",Discovery Science
+http://mw3.tvzinha.org:8080/794498560/398266515/2089
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science Alternativo HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Science%20HD.png" group-title="DISCOVERY",Discovery Science Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1335
+#EXTINF:-1 tvg-id="history.br" tvg-name="History FHD" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel%20HD.png" group-title="DOCUMENTÁRIOS",History FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1842
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel%20HD.png" group-title="DOCUMENTÁRIOS",History HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2150
+#EXTINF:-1 tvg-id="history.br" tvg-name="History" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel.png" group-title="DOCUMENTÁRIOS",History
+http://mw3.tvzinha.org:8080/794498560/398266515/2149
+#EXTINF:-1 tvg-id="" tvg-name="History Alternativo HD" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel%20HD.png" group-title="DOCUMENTÁRIOS",History Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1272
+#EXTINF:-1 tvg-id="" tvg-name="History Alternativo" tvg-logo="https://logos.sologos.art/server/The%20History%20Channel.png" group-title="DOCUMENTÁRIOS",History Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1145
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="https://logos.sologos.art/server/H2%20HD.png" group-title="DOCUMENTÁRIOS",H2 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1838
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="https://logos.sologos.art/server/H2%20HD.png" group-title="DOCUMENTÁRIOS",H2 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2138
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2" tvg-logo="https://logos.sologos.art/server/H2.png" group-title="DOCUMENTÁRIOS",H2
+http://mw3.tvzinha.org:8080/794498560/398266515/2137
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/H2%20HD.png" group-title="DOCUMENTÁRIOS",H2 Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1316
+#EXTINF:-1 tvg-id="h2.br" tvg-name="H2 Alternativo" tvg-logo="https://logos.sologos.art/server/H2.png" group-title="DOCUMENTÁRIOS",H2 Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1144
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida FHD" tvg-logo="https://logos.sologos.art/server/Rede%20Vida.png" group-title="RELIGIOSOS",Rede Vida FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1911
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="https://logos.sologos.art/server/Rede%20Vida.png" group-title="RELIGIOSOS",Rede Vida HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2273
+#EXTINF:-1 tvg-id="rede.vida.br" tvg-name="Rede Vida" tvg-logo="https://logos.sologos.art/server/Rede%20Vida.png" group-title="RELIGIOSOS",Rede Vida
+http://mw3.tvzinha.org:8080/794498560/398266515/2210
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova HD" tvg-logo="https://prinplay.com.br/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="RELIGIOSOS",Canção Nova HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1184
+#EXTINF:-1 tvg-id="" tvg-name="Canção Nova" tvg-logo="https://prinplay.com.br/server/Can%C3%A7%C3%A3o%20Nova.png" group-title="RELIGIOSOS",Canção Nova
+http://mw3.tvzinha.org:8080/794498560/398266515/2070
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="Novo Tempo HD " tvg-logo="https://logos.sologos.art/server/Novo%20Tempo.png" group-title="RELIGIOSOS",Novo Tempo HD 
+http://mw3.tvzinha.org:8080/794498560/398266515/21404
+#EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-name="Novo Tempo" tvg-logo="https://logos.sologos.art/server/Novo%20Tempo.png" group-title="RELIGIOSOS",Novo Tempo
+http://mw3.tvzinha.org:8080/794498560/398266515/1212
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super HD" tvg-logo="https://logos.sologos.art/server/Rede%20Super.png" group-title="RELIGIOSOS",Rede Super HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1216
+#EXTINF:-1 tvg-id="rede.super.br" tvg-name="Rede Super " tvg-logo="https://logos.sologos.art/server/Rede%20Super.png" group-title="RELIGIOSOS",Rede Super 
+http://mw3.tvzinha.org:8080/794498560/398266515/1217
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT FHD " tvg-logo="https://logos.sologos.art/server/Rede%20CNT.png" group-title="RELIGIOSOS",Rede CNT FHD 
+http://mw3.tvzinha.org:8080/794498560/398266515/49702
+#EXTINF:-1 tvg-id="" tvg-name="Rede CNT HD " tvg-logo="https://logos.sologos.art/server/Rede%20CNT.png" group-title="RELIGIOSOS",Rede CNT HD 
+http://mw3.tvzinha.org:8080/794498560/398266515/49703
+#EXTINF:-1 tvg-id="cnt.br" tvg-name="Rede CNT " tvg-logo="https://logos.sologos.art/server/Rede%20CNT.png" group-title="RELIGIOSOS",Rede CNT 
+http://mw3.tvzinha.org:8080/794498560/398266515/42753
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida FHD" tvg-logo="https://logos.sologos.art/server/TV%20Aparecida.png" group-title="RELIGIOSOS",TV Aparecida FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/902331
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida HD" tvg-logo="https://logos.sologos.art/server/TV%20Aparecida.png" group-title="RELIGIOSOS",TV Aparecida HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2248
+#EXTINF:-1 tvg-id="tv.aparecida.br" tvg-name="TV Aparecida" tvg-logo="https://logos.sologos.art/server/TV%20Aparecida.png" group-title="RELIGIOSOS",TV Aparecida
+http://mw3.tvzinha.org:8080/794498560/398266515/902332
+#EXTINF:-1 tvg-id="" tvg-name="Rede 21" tvg-logo="https://logos.sologos.art/server/Rede%2021.png" group-title="RELIGIOSOS",Rede 21
+http://mw3.tvzinha.org:8080/794498560/398266515/54456
+#EXTINF:-1 tvg-id="rede.gospel.br" tvg-name="Rede Gospel " tvg-logo="https://logos.sologos.art/server/Rede%20Gospel.png" group-title="RELIGIOSOS",Rede Gospel 
+http://mw3.tvzinha.org:8080/794498560/398266515/61305
+#EXTINF:-1 tvg-id="rit.br" tvg-name="RIT TV " tvg-logo="https://logos.sologos.art/server/RIT.png" group-title="RELIGIOSOS",RIT TV 
+http://mw3.tvzinha.org:8080/794498560/398266515/54455
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar " tvg-logo="https://logos.sologos.art/server/TV%20Evangelizar.png" group-title="RELIGIOSOS",TV Evangelizar 
+http://mw3.tvzinha.org:8080/794498560/398266515/49700
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno " tvg-logo="https://logos.sologos.art/server/TV%20Pai%20Eterno.png" group-title="RELIGIOSOS",TV Pai Eterno 
+http://mw3.tvzinha.org:8080/794498560/398266515/49701
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://logos.sologos.art/server/Cartoon%20Network%20HD.png" group-title="INFANTIS",Cartoon Network FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1815
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://logos.sologos.art/server/Cartoon%20Network%20HD.png" group-title="INFANTIS",Cartoon Network HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2072
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="Cartoon Network'" tvg-logo="https://logos.sologos.art/server/Cartoon%20Network.png" group-title="INFANTIS",Cartoon Network'
+http://mw3.tvzinha.org:8080/794498560/398266515/2071
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD" tvg-logo="https://logos.sologos.art/server/Discovery%20Kids%20HD.png" group-title="INFANTIS",Discovery Kids FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1821
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="https://logos.sologos.art/server/Discovery%20Kids%20HD.png" group-title="INFANTIS",Discovery Kids HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2088
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="Discovery Kids" tvg-logo="https://logos.sologos.art/server/Discovery%20Kids.png" group-title="INFANTIS",Discovery Kids
+http://mw3.tvzinha.org:8080/794498560/398266515/2087
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon FHD" tvg-logo="https://logos.sologos.art/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1857
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon HD" tvg-logo="https://logos.sologos.art/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2181
+#EXTINF:-1 tvg-id="nick.br" tvg-name="Nickelodeon" tvg-logo="https://logos.sologos.art/server/Nickelodeon.png" group-title="INFANTIS",Nickelodeon
+http://mw3.tvzinha.org:8080/794498560/398266515/2180
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr FHD" tvg-logo="https://logos.sologos.art/server/Nick%20Jr.%20HD.png" group-title="INFANTIS",Nick Jr FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1856
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="Nick Jr HD" tvg-logo="https://logos.sologos.art/server/Nick%20Jr.%20HD.png" group-title="INFANTIS",Nick Jr HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2179
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://logos.sologos.art/server/Nick%20Jr..png" group-title="INFANTIS",Nick Jr
+http://mw3.tvzinha.org:8080/794498560/398266515/2178
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho FHD" tvg-logo="https://logos.sologos.art/server/Gloobinho.png" group-title="INFANTIS",Gloobinho FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1836
+#EXTINF:-1 tvg-id="gloobinho.br" tvg-name="Gloobinho HD" tvg-logo="https://logos.sologos.art/server/Gloobinho.png" group-title="INFANTIS",Gloobinho HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2133
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho" tvg-logo="https://logos.sologos.art/server/Gloobinho.png" group-title="INFANTIS",Gloobinho
+http://mw3.tvzinha.org:8080/794498560/398266515/2134
+#EXTINF:-1 tvg-id="" tvg-name="Gloob FHD" tvg-logo="https://logos.sologos.art/server/Gloob.png" group-title="INFANTIS",Gloob FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1889
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="https://logos.sologos.art/server/Gloob.png" group-title="INFANTIS",Gloob HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2132
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob" tvg-logo="https://logos.sologos.art/server/Gloob.png" group-title="INFANTIS",Gloob
+http://mw3.tvzinha.org:8080/794498560/398266515/2131
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum FHD" tvg-logo="https://logos.sologos.art/server/TV%20Ra%CC%81%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1871
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://logos.sologos.art/server/TV%20Ra%CC%81%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2254
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum" tvg-logo="https://logos.sologos.art/server/TV%20Ra%CC%81%20Tim%20Bum.png" group-title="INFANTIS",TV Ra Tim Bum
+http://mw3.tvzinha.org:8080/794498560/398266515/2253
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito FHD" tvg-logo="https://logos.sologos.art/server/Cartoonito.png" group-title="INFANTIS",Cartoonito FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/901866
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://logos.sologos.art/server/Cartoonito.png" group-title="INFANTIS",Cartoonito HD
+http://mw3.tvzinha.org:8080/794498560/398266515/901867
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://logos.sologos.art/server/Cartoonito.png" group-title="INFANTIS",Cartoonito
+http://mw3.tvzinha.org:8080/794498560/398266515/901868
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast" tvg-logo="https://logos.sologos.art/server/Tooncast.png" group-title="INFANTIS",Tooncast
+http://mw3.tvzinha.org:8080/794498560/398266515/2245
+#EXTINF:-1 tvg-id="" tvg-name="Dumdum HD " tvg-logo="https://i.postimg.cc/3xNjwBbp/Dum-Dum-logo-svg.png" group-title="INFANTIS",Dumdum HD 
+http://mw3.tvzinha.org:8080/794498560/398266515/45260
+#EXTINF:-1 tvg-id="" tvg-name="Dumdum" tvg-logo="https://i.postimg.cc/3xNjwBbp/Dum-Dum-logo-svg.png" group-title="INFANTIS",Dumdum
+http://mw3.tvzinha.org:8080/794498560/398266515/2293
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",Adult Swim FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/933257
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",Adult Swim HD
+http://mw3.tvzinha.org:8080/794498560/398266515/933258
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/640px-Adult_Swim_2003_logo.svg.png" group-title="INFANTIS",Adult Swim
+http://mw3.tvzinha.org:8080/794498560/398266515/933259
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow FHD" tvg-logo="https://logos.sologos.art/server/Multishow%20HD.png" group-title="VARIEDADES",Multishow FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1851
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="https://logos.sologos.art/server/Multishow%20HD.png" group-title="VARIEDADES",Multishow HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2168
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow" tvg-logo="https://logos.sologos.art/server/Multishow.png" group-title="VARIEDADES",Multishow
+http://mw3.tvzinha.org:8080/794498560/398266515/2167
+#EXTINF:-1 tvg-id="br#viva-hd" tvg-name="Globoplay Novelas FHD" tvg-logo="https://i.postimg.cc/ZnpYFTVW/640px-Globoplay-Novelas-svg.png" group-title="VARIEDADES",Globoplay Novelas FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1906
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas HD" tvg-logo="https://i.postimg.cc/ZnpYFTVW/640px-Globoplay-Novelas-svg.png" group-title="VARIEDADES",Globoplay Novelas HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2263
+#EXTINF:-1 tvg-id="" tvg-name="Globoplay Novelas " tvg-logo="https://i.postimg.cc/ZnpYFTVW/640px-Globoplay-Novelas-svg.png" group-title="VARIEDADES",Globoplay Novelas 
+http://mw3.tvzinha.org:8080/794498560/398266515/2262
+#EXTINF:-1 tvg-id="" tvg-name="GNT FHD" tvg-logo="https://logos.sologos.art/server/GNT%20HD.png" group-title="VARIEDADES",GNT FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1837
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://logos.sologos.art/server/GNT%20HD.png" group-title="VARIEDADES",GNT HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2136
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://logos.sologos.art/server/GNT.png" group-title="VARIEDADES",GNT
+http://mw3.tvzinha.org:8080/794498560/398266515/2135
+#EXTINF:-1 tvg-id="" tvg-name="OFF FHD" tvg-logo="https://logos.sologos.art/server/Canal%20Off.png" group-title="VARIEDADES",OFF FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1858
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://logos.sologos.art/server/Canal%20Off.png" group-title="VARIEDADES",OFF HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2183
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF" tvg-logo="https://logos.sologos.art/server/Canal%20Off.png" group-title="VARIEDADES",OFF
+http://mw3.tvzinha.org:8080/794498560/398266515/2182
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis FHD" tvg-logo="https://logos.sologos.art/server/Bis.png" group-title="VARIEDADES",Bis FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1879
+#EXTINF:-1 tvg-id="" tvg-name="Bis HD" tvg-logo="https://logos.sologos.art/server/Bis.png" group-title="VARIEDADES",Bis HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2062
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis" tvg-logo="https://logos.sologos.art/server/Bis.png" group-title="VARIEDADES",Bis
+http://mw3.tvzinha.org:8080/794498560/398266515/2061
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="https://logos.sologos.art/server/Lifetime.png" group-title="VARIEDADES",Lifetime FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1844
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://logos.sologos.art/server/Lifetime.png" group-title="VARIEDADES",Lifetime HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2154
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime" tvg-logo="https://logos.sologos.art/server/Lifetime.png" group-title="VARIEDADES",Lifetime
+http://mw3.tvzinha.org:8080/794498560/398266515/2153
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="https://logos.sologos.art/server/TLC%20HD.png" group-title="VARIEDADES",TLC FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1867
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://logos.sologos.art/server/TLC%20HD.png" group-title="VARIEDADES",TLC HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2240
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://logos.sologos.art/server/TLC.png" group-title="VARIEDADES",TLC
+http://mw3.tvzinha.org:8080/794498560/398266515/2239
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD" tvg-logo="https://logos.sologos.art/server/A%26E%20HD.png" group-title="VARIEDADES",A&E FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1806
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E HD" tvg-logo="https://logos.sologos.art/server/A%26E%20HD.png" group-title="VARIEDADES",A&E HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2046
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="https://logos.sologos.art/server/A%26E.png" group-title="VARIEDADES",A&E
+http://mw3.tvzinha.org:8080/794498560/398266515/2045
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central FHD" tvg-logo="https://logos.sologos.art/server/Comedy%20Central.png" group-title="VARIEDADES",Comedy Central FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1817
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central HD" tvg-logo="https://logos.sologos.art/server/Comedy%20Central.png" group-title="VARIEDADES",Comedy Central HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2078
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="Comedy Central" tvg-logo="https://logos.sologos.art/server/Comedy%20Central.png" group-title="VARIEDADES",Comedy Central
+http://mw3.tvzinha.org:8080/794498560/398266515/2077
+#EXTINF:-1 tvg-id="" tvg-name="MTV FHD" tvg-logo="https://logos.sologos.art/server/MTV.png" group-title="VARIEDADES",MTV FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1849
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="https://logos.sologos.art/server/MTV.png" group-title="VARIEDADES",MTV HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2166
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV" tvg-logo="https://logos.sologos.art/server/MTV.png" group-title="VARIEDADES",MTV
+http://mw3.tvzinha.org:8080/794498560/398266515/2165
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live FHD" tvg-logo="https://logos.sologos.art/server/MTV%20Live%20HD.png" group-title="VARIEDADES",MTV Live FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1850
+#EXTINF:-1 tvg-id="mtv.brasil.br" tvg-name="MTV Live HD" tvg-logo="https://logos.sologos.art/server/MTV%20Live%20HD.png" group-title="VARIEDADES",MTV Live HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2270
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00's" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="VARIEDADES",MTV 00's
+http://mw3.tvzinha.org:8080/794498560/398266515/1271579
+#EXTINF:-1 tvg-id="vh1.megahits.br" tvg-name="VH1 Mega Hits" tvg-logo="https://logos.sologos.art/server/VH1%20Mega%20Hits.png" group-title="VARIEDADES",VH1 Mega Hits
+http://mw3.tvzinha.org:8080/794498560/398266515/2261
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil FHD" tvg-logo="https://logos.sologos.art/server/Music%20Box%20Brazil%20HD.png" group-title="VARIEDADES",Music Box Brasil FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1852
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil HD" tvg-logo="https://logos.sologos.art/server/Music%20Box%20Brazil%20HD.png" group-title="VARIEDADES",Music Box Brasil HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2170
+#EXTINF:-1 tvg-id="music.box.brasil.br" tvg-name="Music Box Brasil" tvg-logo="https://logos.sologos.art/server/Music%20Box%20Brazil.png" group-title="VARIEDADES",Music Box Brasil
+http://mw3.tvzinha.org:8080/794498560/398266515/2169
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil FHD" tvg-logo="https://logos.sologos.art/server/Prime%20Box%20Brazil%20HD.png" group-title="VARIEDADES",Prime Box Brasil FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1860
+#EXTINF:-1 tvg-id="prime.box.brazil.br" tvg-name="Prime Box Brasil HD" tvg-logo="https://logos.sologos.art/server/Prime%20Box%20Brazil%20HD.png" group-title="VARIEDADES",Prime Box Brasil HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2201
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil" tvg-logo="https://logos.sologos.art/server/Prime%20Box%20Brazil.png" group-title="VARIEDADES",Prime Box Brasil
+http://mw3.tvzinha.org:8080/794498560/398266515/2200
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! FHD" tvg-logo="https://logos.sologos.art/server/Curta%21.png" group-title="VARIEDADES",Curta! FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1818
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="https://logos.sologos.art/server/Curta%21.png" group-title="VARIEDADES",Curta! HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2080
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="https://logos.sologos.art/server/Curta%21.png" group-title="VARIEDADES",Curta!
+http://mw3.tvzinha.org:8080/794498560/398266515/2079
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 FHD" tvg-logo="https://logos.sologos.art/server/Arte1.png" group-title="VARIEDADES",Arte 1 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1809
+#EXTINF:-1 tvg-id="arte.1.br" tvg-name="Arte 1 HD" tvg-logo="https://logos.sologos.art/server/Arte1.png" group-title="VARIEDADES",Arte 1 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2052
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="https://logos.sologos.art/server/Arte1.png" group-title="VARIEDADES",Arte 1
+http://mw3.tvzinha.org:8080/794498560/398266515/2051
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD" tvg-logo="https://logos.sologos.art/server/Food%20Network%20HD.png" group-title="VARIEDADES",Food Network FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1830
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network HD" tvg-logo="https://logos.sologos.art/server/Food%20Network%20HD.png" group-title="VARIEDADES",Food Network HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2112
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="Food Network" tvg-logo="https://logos.sologos.art/server/Food%20Network.png" group-title="VARIEDADES",Food Network
+http://mw3.tvzinha.org:8080/794498560/398266515/2111
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD" tvg-logo="https://logos.sologos.art/server/E%21%20Entertainment%20HD.png" group-title="VARIEDADES",E! FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1826
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! HD" tvg-logo="https://logos.sologos.art/server/E%21%20Entertainment%20HD.png" group-title="VARIEDADES",E! HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2100
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://logos.sologos.art/server/E%21%20Entertainment.png" group-title="VARIEDADES",E!
+http://mw3.tvzinha.org:8080/794498560/398266515/2099
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://logos.sologos.art/server/Fish%20TV%20HD.png" group-title="VARIEDADES",Fish TV FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1829
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="https://logos.sologos.art/server/Fish%20TV%20HD.png" group-title="VARIEDADES",Fish TV HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2110
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV " tvg-logo="https://logos.sologos.art/server/Fish%20TV.png" group-title="VARIEDADES",Fish TV 
+http://mw3.tvzinha.org:8080/794498560/398266515/2109
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo FHD" tvg-logo="https://logos.sologos.art/server/WooHoo.png" group-title="VARIEDADES",Woohoo FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1875
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="https://logos.sologos.art/server/WooHoo.png" group-title="VARIEDADES",Woohoo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2267
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo" tvg-logo="https://logos.sologos.art/server/WooHoo.png" group-title="VARIEDADES",Woohoo
+http://mw3.tvzinha.org:8080/794498560/398266515/2266
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",Modo Viagem FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/928399
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",Modo Viagem HD
+http://mw3.tvzinha.org:8080/794498560/398266515/928400
+#EXTINF:-1 tvg-id="" tvg-name="Modo Viagem" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/640px-Logotipo_do_Modo_Viagem.svg.png" group-title="VARIEDADES",Modo Viagem
+http://mw3.tvzinha.org:8080/794498560/398266515/928401
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil FHD" tvg-logo="https://logos.sologos.art/server/Travel%20Box%20Brazil.png" group-title="VARIEDADES",Travel Box Brazil FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/943910
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://logos.sologos.art/server/Travel%20Box%20Brazil.png" group-title="VARIEDADES",Travel Box Brazil HD
+http://mw3.tvzinha.org:8080/794498560/398266515/943911
+#EXTINF:-1 tvg-id="travel.box.brazil.br" tvg-name="Travel Box Brazil " tvg-logo="https://logos.sologos.art/server/Travel%20Box%20Brazil.png" group-title="VARIEDADES",Travel Box Brazil 
+http://mw3.tvzinha.org:8080/794498560/398266515/943912
+#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Saborearte.png" group-title="VARIEDADES",Sabor & Arte 
+http://mw3.tvzinha.org:8080/794498560/398266515/61332
+#EXTINF:-1 tvg-id="dogtv.br" tvg-name="DOGTV " tvg-logo="https://logos.sologos.art/server/Dog%20TV.png" group-title="VARIEDADES",DOGTV 
+http://mw3.tvzinha.org:8080/794498560/398266515/66622
+#EXTINF:-1 tvg-id="" tvg-name="Urban TV " tvg-logo="https://logos.sologos.art/server/UrbanTV.png" group-title="VARIEDADES",Urban TV 
+http://mw3.tvzinha.org:8080/794498560/398266515/71265
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV" tvg-logo="https://logos.sologos.art/server/Polishop.png" group-title="VARIEDADES",Polishop TV
+http://mw3.tvzinha.org:8080/794498560/398266515/2294
+#EXTINF:-1 tvg-id="nhk.br" tvg-name="NHK" tvg-logo="https://logos.sologos.art/server/NHK.png" group-title="VARIEDADES",NHK
+http://mw3.tvzinha.org:8080/794498560/398266515/1210
+#EXTINF:-1 tvg-id="" tvg-name="[24h] Round 6" tvg-logo="https://www.themoviedb.org/t/p/w1280/6gcHdboppvplmBWxvROc96NJnmm.jpg" group-title="MARATONA 24H",[24h] Round 6
+http://mw3.tvzinha.org:8080/794498560/398266515/1269087
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1898
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2199
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes.png" group-title="PREMIERE",Premiere Clubes
+http://mw3.tvzinha.org:8080/794498560/398266515/2198
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes 4k" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes%20HD.png" group-title="PREMIERE",Premiere Clubes 4k
+http://mw3.tvzinha.org:8080/794498560/398266515/1277
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%20Clubes.png" group-title="PREMIERE",Premiere Clubes Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1163
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1892
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2187
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2
+http://mw3.tvzinha.org:8080/794498560/398266515/904121
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1273
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%202.png" group-title="PREMIERE",Premiere 2 Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1157
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1893
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2189
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3
+http://mw3.tvzinha.org:8080/794498560/398266515/2188
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1274
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%203.png" group-title="PREMIERE",Premiere 3 Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1158
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1894
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2191
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4
+http://mw3.tvzinha.org:8080/794498560/398266515/2190
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1275
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%204.png" group-title="PREMIERE",Premiere 4 Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1214
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1895
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5 HD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2193
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="Premiere 5" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5
+http://mw3.tvzinha.org:8080/794498560/398266515/2192
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/1276
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 5 Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1159
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1896
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2195
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6
+http://mw3.tvzinha.org:8080/794498560/398266515/2194
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="Premiere 6 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/7945
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%206.png" group-title="PREMIERE",Premiere 6 Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1160
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FHD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 FHD
+http://mw3.tvzinha.org:8080/794498560/398266515/1897
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 HD
+http://mw3.tvzinha.org:8080/794498560/398266515/2197
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7
+http://mw3.tvzinha.org:8080/794498560/398266515/2196
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="Premiere 7 Alternativo HD" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 Alternativo HD
+http://mw3.tvzinha.org:8080/794498560/398266515/7946
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 Alternativo" tvg-logo="https://logos.sologos.art/server/Premiere%207.png" group-title="PREMIERE",Premiere 7 Alternativo
+http://mw3.tvzinha.org:8080/794498560/398266515/1161
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="https://logos.sologos.art/server/Premiere%205.png" group-title="PREMIERE",Premiere 8
+http://mw3.tvzinha.org:8080/794498560/398266515/914936
